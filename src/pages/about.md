@@ -6,9 +6,7 @@ You can call me Hưng. I was born and raised in Vietnam. Still under 20, with a 
 
 The sole purpose of this site is to document my life, how I face challenges, so that when I'm older, I can look back and be proud.
 
-<div>
-  <img src="../../src/assets/images/me.jpg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+![me](@assets/images/me.jpg)
 
 ## Tech Stack
 

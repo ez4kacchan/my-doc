@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  website: "https://redtail.id.vn", // replace this with your deployed domain
+  author: "Đào Vũ Hưng",
+  profile: "https://redtail.id.vn/about/",
+  desc: "The place where Hung documents everything he likes, he observes, he tries, and he improves.",
   title: "RedTail",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -12,7 +12,7 @@ export const SITE: Site = {
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   editPost: {
-    url: "https://github.com/satnaing/astro-paper/edit/main/src/content/blog",
+    url: "https://github.com/ez4kacchan/redtail-blog/tree/main/src/content/blog",
     text: "Suggest Changes",
     appendFilePath: true,
   },

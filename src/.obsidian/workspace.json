@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "53154ca37d2cd1d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "750f849cbf04ce2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e04efe255c1d402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/kataoka-tesshin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3050242039817d29",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb221e35315e6f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c13f858b471a1cb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30b5077840436994",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a09facd1c5e3194",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82404f0f108b9398",
+    "type": "split",
+    "children": [
+      {
+        "id": "a419c57159905e81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be95e5607f903796",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/blog/kataoka-tesshin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "342bb2923abd83fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/blog/kataoka-tesshin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56a3e0f3cafcd304",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "101e030f2a9f0856",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/blog/kataoka-tesshin.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9e04efe255c1d402",
+  "lastOpenFiles": [
+    "assets/images/kataoka3.png",
+    "content/blog/kataoka-tesshin.md",
+    "assets/images/kataoka2.png",
+    "content/blog/redtail-ecommerce-roadmap.md",
+    "content/blog/text-to-speech.md",
+    "assets/images/kataoka1.png~",
+    "assets/images/kataoka1.png",
+    "Untitled",
+    "content/blog/about.md",
+    "content/blog/never-leave-anyone-alone.md"
+  ]
+}

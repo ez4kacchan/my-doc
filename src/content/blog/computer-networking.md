@@ -24,4 +24,9 @@ description: Quá trình tôi đam mê và tìm hiểu về computer networking
 1. Là hạ tầng mạng cung cấp các dịch vụ mạng cho người dùng. Những ứng dụng mạng được chạy ở end user. Cho phép end user này kết nối đến end user khác. Giống như việc viết thư vậy. Internet ở đây giống như bưu điện: sẽ có các rule(*socket interface*) để người gửi follow và sẽ lo hết phần vận chuyển
 
 ### Giao thức 
-- 
+- Định nghĩa các phương thức và thứ tự các tín hiệu giữa 2 hoặc nhiều hơn các thiết bị giao tiếp cũng như sẽ có những hoạt động gì xảy ra khi mà gửi hoặc nhận tín hiệu.   
+
+- Giống như cách con người giao tiếp.   
+
+### Mạng biên   
+- Là các Web Server, thiết bị điện tử,

@@ -24,4 +24,16 @@ Mọi hoạt động của chúng ta đều được thực hiện bởi Self 2,
 
 Vậy Judgemental Mind là một thứ rất vô dụng và cần phải unlearn? Có thể nói là như vậy nhưng để **let go** không dễ như vậy mà hãy **focus** nó -> **relaxed concentration**.
 
-# Mục đích của sự cạnh tranh là gì
+# Mục đích của các cuộc thi là gì
+Lấy ví dụ: 
+- Một vận động viên lướt sóng. Mục đích của họ là lướt về bãi biển. Họ đợi bất kì cơn sóng nào để lướt trở về. Tuy nhiên thực tế không phải như vậy. Họ đợi một con sóng thiệt sự lớn thì mới chịu lướt về. Tại sao lại như vậy? 
+- Bởi vì chỉ có cơn sóng to thì họ mới có thể dùng những toàn bộ kỹ năng mà họ học được và luyện tập được.
+
+Hay nói rằng, vì ở các cuộc thi, thì chúng ta mới được tiếp xúc **các trở ngại** và sử dụng được toàn bộ **kỹ năng** 
+
+# Mục đích sống cuối cùng là gì
+**Self 2** luôn cần sự hối thúc nhẹ nhàng và không ngừng, không phải từ Self 1. Mà là tự những demand cơ bản của con người. Như là tận hưởng, học hỏi, để hiểu, để appreciate, nghỉ ngơi, be healthy, tồn tại, tự do 
+
+Vậy đối với Hưng, nó là giúp cho Self 2 mình hiểu hơn và enjoy the process.  
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLQA4Aoo=/?moveToViewport=-60,223,1497,364&embedId=437955891841" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>

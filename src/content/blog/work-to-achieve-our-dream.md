@@ -36,4 +36,6 @@ Hay nói rằng, vì ở các cuộc thi, thì chúng ta mới được tiếp x
 
 Vậy đối với Hưng, nó là giúp cho Self 2 mình hiểu hơn và enjoy the process.  
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLQA4Aoo=/?moveToViewport=-60,223,1497,364&embedId=437955891841" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+# Các bước change habbit
+
+![change_habbit.png](../../assets/images/change_habbit.png)

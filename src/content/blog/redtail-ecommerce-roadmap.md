@@ -2,13 +2,12 @@
 author: Đào Vũ Hưng
 pubDatetime: 2024-10-17T09:27:49+07:00
 modDatetime: 2024-10-17T09:27:49+07:00
-title: RedTail Ecommerce Store Roadmap 
+title: RedTail Ecommerce Store Roadmap
 featured: false
-draft: false
+draft: true
 tags:
   - business
-description:
-  How I make a roadmap for my ecommerce store project.
+description: How I make a roadmap for my ecommerce store project.
 ---
 
 # RedTail Map

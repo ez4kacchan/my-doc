@@ -1,0 +1,25 @@
+---
+author: Đào Vũ Hưng
+pubDatetime: 2024-10-19T23:26:27+07:00
+title: Work to achieve our dream
+featured: false
+draft: false
+tags:
+  - assistant
+description: How I should work
+---
+
+# Our dream
+Giấc mơ là thứ mà chúng ta muốn đạt được. 
+
+# Self 1 
+Tất cả chúng ta đều biết Self 1 là người ra lệnh. Là phiên bản thích đánh giá của chúng ta. Là nguyên nhân bảo chúng ta phải cố gắng làm một gì đó. Là nơi tiếp nhận những lời khen, những suy nghĩ tích cực hay tiêu cực. 
+- Luôn nhớ rằng Self 1 là một phiên bản hay phán xét. Khi nhận được những lời tích cực, nó sẽ có suy nghĩ "Nếu mình được khen tốt khi làm như vậy, thì lỡ như không làm được thì mình sẽ bị chê"
+- Khác với sự công nhận công sức của Self 2. Mình không gắn mác "good" hay "bad" cho việc làm mà chỉ công nhận công sức đã được bỏ ra để làm công việc. Như vậy thì nó sẽ boost Self 2.
+Vậy thì bây giờ bỏ Self 1 ở đâu khi mà chúng ta phải let go of it? **Tập trung**. Đúng vậy, không có thể nào mà đơn giản let go Self 1 được mà phải để nó focus vào một việc nào đó. Để nó trở nên "still"
+- Vậy thì việc căng mắt ra nhìn một thứ gì đó có phải là **focus**? Đó là **trying hard**. **Naturally focus** đến khi mà chúng ta hứng thú, và không cho rằng chúng ta biết gì cả.
+- Trong tennis, hoạt động quan sát chuyển động của trái banh: khi bật thì sẽ nói "bounce" khi bị đánh thì sẽ nói "hit" giúp Self 1 tập trung vào quan sát.
+# Self 2 và từ bỏ Judgemental Mind
+Mọi hoạt động của chúng ta đều được thực hiện bởi Self 2, như là nhận diện hình ảnh, gõ bàn phím, ... 
+
+Vậy Judgemental Mind là một thứ rất vô dụng và cần phải unlearn? Có thể nói là như vậy nhưng 

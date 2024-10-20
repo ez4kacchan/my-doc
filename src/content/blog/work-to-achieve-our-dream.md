@@ -59,3 +59,5 @@ Không có self-improvement nào ở đây cả. Từ khi sinh ra thì Self 2 đ
 # Vậy thì mình đối diện với những thứ từ outer game như thế nào
 
 **Abandon** anything, when necessary. Không phải là tôi give up mà chỉ là tạm thời bỏ nó đi và biết rằng nó sẽ trở nên ổn thỏa.
+
+Enjoying the process as the demand of Self 2. 

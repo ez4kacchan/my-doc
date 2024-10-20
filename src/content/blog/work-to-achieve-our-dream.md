@@ -39,3 +39,19 @@ Vậy đối với Hưng, nó là giúp cho Self 2 mình hiểu hơn và enjoy t
 # Các bước change habbit
 
 ![change_habbit.png](../../assets/images/change_habbit.png)
+
+# Mình đã luôn nuôi dưỡng "Self 1"
+
+Việc mà cảm thấy tự mãn khi được khen nè. Hay suy nghĩ tích cực, tiêu cực đều giúp cho "Self 1" hoạt động mạnh hơn
+
+List những thứ đã nuôi dưỡng **Self 1**:
+- Nhận lời khen và bắt đầu suy nghĩ tích cực. Nhận lời chê và bắt đầu suy nghĩ tiêu cực
+- Nhận mọi trách nhiệm về bản thân mình. Làm cho **Self 1** nghĩ nó phải ra tay
+- Nghĩ mình là thiên tài. Khiến cho **Self 1** lộng hành
+- Luyến tiếc từng học PTNK
+- Ỷ mình giàu 
+- ...
+ 
+Tôi không biết let go những cái pressure từ gia đình, bạn bè ... Những pressure khi coi anime. 
+
+Không có self-improvement nào ở đây cả. Từ khi sinh ra thì Self 2 đã có những khả năng đó rồi, không có gì sai trong Self 2 để mình phải thốt lên "Mình yếu kém thật sự. Mình cần phải cải thiện rất nhiều. "

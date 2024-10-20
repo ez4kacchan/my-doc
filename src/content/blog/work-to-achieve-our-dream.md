@@ -55,3 +55,7 @@ List những thứ đã nuôi dưỡng **Self 1**:
 Tôi không biết let go những cái pressure từ gia đình, bạn bè ... Những pressure khi coi anime. 
 
 Không có self-improvement nào ở đây cả. Từ khi sinh ra thì Self 2 đã có những khả năng đó rồi, không có gì sai trong Self 2 để mình phải thốt lên "Mình yếu kém thật sự. Mình cần phải cải thiện rất nhiều. "
+
+# Vậy thì mình đối diện với những thứ từ outer game như thế nào
+
+**Abandon** anything, when necessary. Không phải là tôi give up mà chỉ là tạm thời bỏ nó đi và biết rằng nó sẽ trở nên ổn thỏa.

@@ -38,7 +38,11 @@ Vậy đối với Hưng, nó là giúp cho Self 2 mình hiểu hơn và enjoy t
 ## Sống ở khoảnh khắc bây giờ 
 Đầu tiên hãy breakdown các sự kiện trong đời xem mình sống ở quá khứ hay hiện tại hay tương lai.
 - Đi ăn, đi chơi với những người thân. -> Nghĩ về công việc đang làm, nghĩ về những việc làm chưa được, những việc tương lai cần làm -> Có thể không bắt sóng nói được chữ nào => Nếu abandon mọi thứ và be now thì sao? Nghe được mọi người nói gì và mình có thể đóng góp được gì, chỉ vậy thôi. Abandon hết những thứ khác.
-- Câu hỏi đặt ra là khi nào thì suy nghĩ về tương lai hay quá khứ? Không phải bố mình vẫn phải suy nghĩ về tương lai của công ty rồi này nọ sao? Có thiệt sự điều đó là cần thiết, điều quan trọng chắc là việc mình chia thời gian như thế nào 
+- Câu hỏi đặt ra là khi nào thì suy nghĩ về tương lai hay quá khứ? Không phải bố mình vẫn phải suy nghĩ về tương lai của công ty rồi này nọ sao? Có thiệt sự điều đó là cần thiết, điều quan trọng chắc là việc mình chia thời gian như thế nào? Thí dụ mình dành riêng một session để analyze những event in the pass thì sao? 
+	- Tránh được Self 1 chen chân vô. Dành cho Self 2 không gian yêu thích
+	- Nghĩ về tương lai cũng giống v. Khi dành ra một session riêng, mình còn có những số liệu nữa 
+
+Trong mọi mối quan hệ, tôi nghĩ nó theo kiểu, sẽ có chỉ số synergy giữa bản thân với mng nên các hành động làm tăng chỉ số hoặc giảm chỉ số. Khi họ khen hay chửi tôi, tôi tiếp cận với Self 2.
 # Các bước change habbit
 
 ![change_habbit.png](../../assets/images/change_habbit.png)

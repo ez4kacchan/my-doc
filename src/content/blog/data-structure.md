@@ -50,4 +50,25 @@ description: Quá trình tôi đam mê và tìm hiểu về Data Structure
 ![](../../assets/images/phep_toan.png)
 - **Tất cả**: Phép chia??
 - Vẽ bảng ra cho dễ hình dung, xem lúc nào cần left-outer hay right-outer hay full-outer
-- 
+## 1.4. SQL
+### 1.4.1. Tương tác với bảng
+- Cú pháp: CREATE 
+
+![](../../assets/images/20241022024933.png)
+- Sửa bảng: **ALTER** 'TABLE'
+	- Khi: 
+		- thêm thuộc tính (LOAI):  ADD 'tên' 'kiểu dữ liệu'
+		- sửa kiểu dữ liệu thuộc tính (char -> varchar): ALTER COLUMN 'ten' 'kieu du lieu'
+		- xóa thuộc tính: DROP COLUMN 'ten'
+		- thêm ràng buộc: ADD CONSTRAINT. Ví dụ: ADD CONSTRAINT Check_Dv CHECK (DONVI IN ('quyen', 'cai'))
+		- xóa ràng buộc: DROP CONSTRAINT Check_Dv
+- Xóa bảng: DROP TABLE 
+### 1.4.2. Thêm dữ liệu vào
+- Cú pháp: **INSERT** và cần gì? table nào, cột nào? 
+![20241022030333.png](../../assets/images/20241022030333.png)
+- Sửa dữ liệu: **UPDATE** 
+![Pasted image 20241022030908.png](../../assets/images/20241022030908.png)
+- Xóa dữ liệu: **DELETE** 
+![delete value](../../assets/images/delete_value.png)
+- Thêm dữ liệu vào như thế nào, cập nhật dữ liệu ra sao, xóa dữ liệu sao
+- Các logic như thế nào?

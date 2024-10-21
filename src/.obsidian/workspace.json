@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/computer-networking.md",
+                "file": "content/blog/work-to-achieve-our-dream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "computer-networking"
+              "title": "work-to-achieve-our-dream"
             }
           }
         ]
@@ -164,9 +164,9 @@
   },
   "active": "d35b3f33f240601b",
   "lastOpenFiles": [
+    "content/blog/computer-networking.md",
     "content/blog/work-to-achieve-our-dream.md",
     "assets/images/interconenction_of_isp.png",
-    "content/blog/computer-networking.md",
     "assets/images/tdm_fdm.png",
     "assets/images/store-and-forward.png",
     "content/blog/kataoka-tesshin.md",

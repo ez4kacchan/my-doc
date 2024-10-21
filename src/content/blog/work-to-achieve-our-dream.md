@@ -31,11 +31,14 @@ Lấy ví dụ:
 
 Hay nói rằng, vì ở các cuộc thi, thì chúng ta mới được tiếp xúc **các trở ngại** và sử dụng được toàn bộ **kỹ năng** 
 
-# Mục đích sống cuối cùng là gì
+# Mục đích sống cuối cùng là gì?
 **Self 2** luôn cần sự hối thúc nhẹ nhàng và không ngừng, không phải từ Self 1. Mà là tự những demand cơ bản của con người. Như là tận hưởng, học hỏi, để hiểu, để appreciate, nghỉ ngơi, be healthy, tồn tại, tự do 
 
 Vậy đối với Hưng, nó là giúp cho Self 2 mình hiểu hơn và enjoy the process.  
-
+## Sống ở khoảnh khắc bây giờ 
+Đầu tiên hãy breakdown các sự kiện trong đời xem mình sống ở quá khứ hay hiện tại hay tương lai.
+- Đi ăn, đi chơi với những người thân. -> Nghĩ về công việc đang làm, nghĩ về những việc làm chưa được, những việc tương lai cần làm -> Có thể không bắt sóng nói được chữ nào => Nếu abandon mọi thứ và be now thì sao? Nghe được mọi người nói gì và mình có thể đóng góp được gì, chỉ vậy thôi. Abandon hết những thứ khác.
+- Câu hỏi đặt ra là khi nào thì suy nghĩ về tương lai hay quá khứ? Không phải bố mình vẫn phải suy nghĩ về tương lai của công ty rồi này nọ sao? Có thiệt sự điều đó là cần thiết, điều quan trọng chắc là việc mình chia thời gian như thế nào 
 # Các bước change habbit
 
 ![change_habbit.png](../../assets/images/change_habbit.png)

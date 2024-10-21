@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e04efe255c1d402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/kataoka-tesshin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "kataoka-tesshin"
-            }
-          },
-          {
             "id": "d35b3f33f240601b",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "computer-networking"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,10 +164,13 @@
   },
   "active": "d35b3f33f240601b",
   "lastOpenFiles": [
-    "assets/images/access_network.png",
-    "content/blog/computer-networking.md",
     "content/blog/work-to-achieve-our-dream.md",
+    "assets/images/interconenction_of_isp.png",
+    "content/blog/computer-networking.md",
+    "assets/images/tdm_fdm.png",
+    "assets/images/store-and-forward.png",
     "content/blog/kataoka-tesshin.md",
+    "assets/images/access_network.png",
     "assets/images/change_habbit.png",
     "content/blog/text-to-speech.md",
     "content/blog/never-leave-anyone-alone.md",

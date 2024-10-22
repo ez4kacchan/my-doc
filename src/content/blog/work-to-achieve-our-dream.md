@@ -22,6 +22,8 @@ Vậy thì bây giờ bỏ Self 1 ở đâu khi mà chúng ta phải let go of i
 # Self 2 và từ bỏ Judgemental Mind
 Mọi hoạt động của chúng ta đều được thực hiện bởi Self 2, như là nhận diện hình ảnh, gõ bàn phím, ... 
 
+**Self 2 rất thích enjoy moment, kiến thức mới**. Đừng để **Self 1** lừa.
+
 Vậy Judgemental Mind là một thứ rất vô dụng và cần phải unlearn? Có thể nói là như vậy nhưng để **let go** không dễ như vậy mà hãy **focus** nó -> **relaxed concentration**.
 
 # Mục đích của các cuộc thi là gì

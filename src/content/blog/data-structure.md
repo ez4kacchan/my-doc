@@ -11,7 +11,6 @@ description: Quá trình tôi đam mê và tìm hiểu về Data Structure
 ---
 # Approach 
 1. Đối với việc documentate, để Self 2 tự ghi chép lại cách nó làm, hoặc đại khái ý nó làm. Chứ Self 1 để im
-2. 
 ## 1.1. Mô hình thực thể mối kết hợp
 
 ### 1.1.1. Thực thể và loại thực thể

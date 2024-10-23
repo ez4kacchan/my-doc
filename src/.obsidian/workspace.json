@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/playing-baseball.md",
+                "file": "content/blog/operating-system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "playing-baseball"
+              "title": "operating-system"
             }
           }
         ],
@@ -193,26 +193,25 @@
   },
   "active": "c13f858b471a1cb8",
   "lastOpenFiles": [
-    "assets/images/IMG_4190.jpeg",
+    "assets/images/stack_heap.png",
     "content/blog/operating-system.md",
+    "assets/images/lenh_htop.png",
+    "assets/images/usermode_kernelmode.png",
+    "assets/images/cluster_system.png",
+    "content/blog/computer-networking.md",
+    "content/blog/work-to-achieve-our-dream.md",
     "content/blog/playing-baseball.md",
+    "content/blog/hhkb professional hybrid type-s.md",
+    "content/blog/text-to-speech.md",
+    "assets/images/IMG_4190.jpeg",
     "assets/images/event_bus.png",
     "assets/images/Pasted_image_20241021230958.png",
     "Pasted.md",
     "Pasted image 20241023151056.png",
     "Pasted image 20241023151032.png",
     "Pasted image 20241023151316.png",
-    "assets/images/os.png",
-    "content/blog/work-to-achieve-our-dream.md",
-    "content/blog/hhkb professional hybrid type-s.md",
-    "assets/images/RedTail.png",
-    "content/blog/computer-networking.md",
     "content/blog/data-structure.md",
-    "assets/images/delete_value.png",
-    "assets/images/20241022030908.png",
-    "assets/images/20241022030333.png",
     "content/blog/kataoka-tesshin.md",
-    "content/blog/text-to-speech.md",
     "content/blog/never-leave-anyone-alone.md",
     "content/blog/redtail-ecommerce-roadmap.md",
     "assets/images/kataoka1.png~",

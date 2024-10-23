@@ -5,7 +5,7 @@ title: Work to achieve our dream
 featured: false
 draft: false
 tags:
-  - assistant
+  - myself
 description: How I should work
 ---
 
@@ -70,6 +70,14 @@ Không có self-improvement nào ở đây cả. Từ khi sinh ra thì Self 2 đ
 **Abandon** anything, when necessary. Không phải là tôi give up mà chỉ là tạm thời bỏ nó đi và biết rằng nó sẽ trở nên ổn thỏa.
 
 Enjoying the process as the demand of Self 2. 
+
+## 7.1. Học cách tập trung
+Cách hợp lý là cho phép bản thân **cảm thấy hứng thú** với việc đó. Chẳng hạn như là quả banh. **Đừng cho rằng mình biết gì cả** là một yếu tố quan trọng.
+- Một cách để giữ sự hứng thú là **quan sát những thứ in motion**. Như là chuyển động của quả banh. 
+- Bài tập **Bounce-Hit**
+- Sound of the ball
+- **Cảm nhận**. Cảm nhận từng muscle trong cơ thể. Có thể thực hiện các động tác **in slow motion** như các bài tập thể dục. Khi mà **tăng tốc lên** thì mình có thể cảm giác những muscles đó.
+- **Quên đi** những gì **nên** và trải nghiệm những gì **là**.
 
 # 8. Cách làm việc với Self 2
 - Mình có thể luyện tập focus để let go of Self 1. Tập trung vào những thứ subtle rất hiệu quả

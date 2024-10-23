@@ -5,7 +5,8 @@ title: Lưu lại những kỉ niệm chơi Bóng chày
 featured: false
 draft: false
 tags:
-  - assistant
+  - baseball
+  - daily-thing
 description: Ball and Gloves
 ---
 

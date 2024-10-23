@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playing-baseball.md",
+                "file": "content/blog/playing-baseball.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,11 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27eff44a85faa0f5",
+  "active": "c13f858b471a1cb8",
   "lastOpenFiles": [
     "assets/images/IMG_4190.jpeg",
     "content/blog/operating-system.md",
-    "playing-baseball.md",
+    "content/blog/playing-baseball.md",
     "assets/images/event_bus.png",
     "assets/images/Pasted_image_20241021230958.png",
     "Pasted.md",

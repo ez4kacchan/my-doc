@@ -153,3 +153,15 @@ Tốc độ tiến trình hướng CPU phụ thuộc vào **tốc độ CPU**. C
 | **Long-term Scheduling**   | Quyết định tiến trình nào được nạp vào bộ nhớ chính | Khi cần nạp thêm tiến trình hoặc giải phóng | Không thường xuyên         |
 | **Medium-term Scheduling** | Quản lý việc tạm ngừng và tiếp tục tiến trình       | Khi cần giải phóng hoặc tối ưu bộ nhớ       | Thường xuyên hơn long-term |
 | **Short-term Scheduling**  | Chọn tiến trình để cấp phát CPU                    | Mỗi khi CPU rảnh hoặc có ngắt hệ thống     | Diễn ra liên tục           |
+## 2.3. Các giải thuật định thời 
+- **HRRN**: 
+	- Chọn tiến trình có RR lớn nhất: (time spent waiting + expected service time)/expected service time
+- **Multilevel Queue**: 
+	- Hệ thống chia ra làm background task và high priority task. Từ đó sẽ có các giải thuật riêng. VD: background task dùng FCFS và high priority task dùng RR. Tùy thuộc vào độ ưu tiên này và. Tất nhiên phần trăm CPU cũng được assign khác nhau
+![multiqueue](../../assets/images/multiqueue.png)
+- **Hạn chế lớn nhất** là không thể chuyển từ hàng đợi này sang hàng đợi khác lúc cần. **-> Multilevel Feedback Queue**
+- Xét về yếu tố **CPU-burst** và theo cơ chế trưng dụng.
+- Có **2 cơ chế** khi nói về **MLFB**: 
+	- Các tiến trình hướng I/O sẽ được ở hàng đợi ưu tiên cao,  hướng CPU thì ngược lại
+	- Cơ chế **Ageing**: đợi quá lâu ở hàng đợi ưu tiên thấp sẽ được chuyển lên cao
+	

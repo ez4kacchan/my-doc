@@ -71,6 +71,12 @@ Không có self-improvement nào ở đây cả. Từ khi sinh ra thì Self 2 đ
 
 Enjoying the process as the demand of Self 2. 
 
+## 7.2. "Không suy nghĩ về tương lai, không lo lắng thì sao mà làm được việc?"
+Có một sự khác biệt rất lớn về để Self 1 hối hận về quá khứ, lo lắng về tương lai so với việc mình giành thời gian để suy nghĩ về những điều trong quá khứ và tương lai.
+
+Process thứ nhất là mình để cho Self 1 wandering
+
+Process thứ hai là mình dành thời gian cho Self 2 và tin tưởng Self 2 để Self 2 có thể learn, understand and go for it.
 ## 7.1. Học cách tập trung
 Cách hợp lý là cho phép bản thân **cảm thấy hứng thú** với việc đó. Chẳng hạn như là quả banh. **Đừng cho rằng mình biết gì cả** là một yếu tố quan trọng.
 - Một cách để giữ sự hứng thú là **quan sát những thứ in motion**. Như là chuyển động của quả banh. 
@@ -115,3 +121,41 @@ Khi mà mình cho một **yếu tố** thay đổi những yếu tố khác sẽ
 Cho nên là hãy nhớ rằng, khi để độ chính xác tự cải thiên, mình nên ít concern về lực sút.
 
 Mình sẽ sút đến khi nào mình nghĩ cái groove đã được thiết lập. Để kiểm tra thì hãy **chăm chú vào đường đi của trái banh** để make sure là suy nghĩ của mình không điều khiển body.
+
+## 8.3. Cuộc chơi đáng để chơi
+### Cuộc chơi chính: Health-o-Fun-o
+Mục tiêu chung: Tinh thần hay Sức khỏe thể chất hay Niềm vui
+Động lực chung: Sức khỏe và/hoặc Niềm vui
+
+#### Cuộc chơi phụ A: Health-o
+**Ý chính**: Chơi theo chỉ dẫn của bác sĩ, hoặc tự bản thân muốn thay đổi thể chất, hoặc một chương trình sắc đẹp
+**Mục tiêu**: Tập thể dục, thể thao để ra mồ hôi, thư giãn đầu óc
+**Động lực**: Sức khỏe, mong muốn kéo dài tuổi trẻ
+**Chướng ngại vật**: 
+*Bên ngoài*: Kiếm người cùng động lực
+*Bên trong*: Nghi ngờ liệu đá banh có giúp được. Dễ kéo vào cuôc chơi Perfect-o hay Good-o
+
+### Cuộc chơi phụ  B: Fun-o
+**Ý chính**: Chơi không phải để thắng cũng không phải để trở nên "tốt" mà chỉ để vui
+**Mục tiêu**: Càng nhiều vui càng tốt
+**Động lực**: Sự **enjoyment**, in expression of excellence
+**Chướng ngại vật**:
+*Bên ngoài*: Không có gì
+*Bên trong*: Bị dẫn vào cuộc chơi của Self 1
+
+### Cuộc chơi phụ C: Learn-o
+**Ý chính**: Chơi dựa trên khát khao của Self 2: để học hỏi và trưởng thành
+**Mục tiêu**: Tiến hóa
+**Động lực**: Enjoyment of learning
+**Chướng ngại vật**:
+*Bên ngoài*: Không có gì
+*Bên trong*: Thường bị kéo vào cuộc chơi của Self 1
+
+
+Mình chơi cuộc chơi gì mà đúng với lại khát khao tự nhiên của Self 2: được tận hưởng, được học, được hiểu, được tôn trọng, được làm "điều đó" liền, được nghỉ ngơi, được có sức khỏe, được sinh tồn, được tự do là nó, được thể hiện và được đóng góp riêng.
+
+Tùy vào cuộc chơi nào, mình giao việc cho Self 2 và để nó tự làm
+
+Còn việc của Self 1 là Abandon thứ cần thiết, biết rằng nó sẽ ổn thôi
+
+## 8.4

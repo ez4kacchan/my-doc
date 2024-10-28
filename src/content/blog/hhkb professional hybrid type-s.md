@@ -6,7 +6,7 @@ featured: false
 draft: false
 tags:
   - daily-thing
-description: sắm em HHKB về test
+description: về bàn phím hhkb
 ---
 
 # 1.1. Mua như thế nào

@@ -92,6 +92,7 @@ Cách hợp lý là cho phép bản thân **cảm thấy hứng thú** với vi�
 ## 8.1. Thay đổi thói quen
 - Đầu tiên phải hiểu được rằng mọi thói quen, hoạt động đều có purpose của nó. 
 	- Mình không đánh răng buổi tối để đi ngủ được liền khi mà lên giường
+- Việc cho rằng thói quen là bad **không giúp ích**. Việc coi purpose của thói quen mới giúp ích.
 - Thay đổi tự nhiên xảy ra khi mình có thể đạt được purpose bằng một cách hợp lý hơn chứ ko ép buộc gì cả.
 - Thói quen thực chất là những gì thuộc về quá khứ. Sửa thói quen là một cụm từ **sai** bởi vì Self 2 có khả năng làm bất cứ gì nên nó chỉ cần làm lại thói quen mới.
 
@@ -99,7 +100,7 @@ Cách hợp lý là cho phép bản thân **cảm thấy hứng thú** với vi�
 ### 8.2.1. Step 1: Quan sát một cách không phán xét
 Thử bất cứ thứ gì mình **muốn thay đổi** và để cơ thể hoặc việc làm đó trả lời lại xem **nó có muốn thay đổi**. Nếu mình muốn thay đổi thứ gì đã sẵn sàng để thay đổi thì quá trình sẽ **hoàn toàn tự nhiên**
 - Quên hết mọi thứ mình muốn thay đổi, về cái gì đúng hay sai. **Just be aware**.
-- Ví dụ tập sút xa trong đá banh:
+- Ví dụ tập sdaily streamút xa trong đá banh:
 	- **Aware** tư thế mình đứng, sức nặng mình đang dồn về bên nào. 
 	- **Aware** mắt mình đang nhìn ở đâu. 
 	- **Aware** mình cách trái banh cỡ bao xa, chân mình có thẳng với trái banh hay không
@@ -158,4 +159,15 @@ Tùy vào cuộc chơi nào, mình giao việc cho Self 2 và để nó tự là
 
 Còn việc của Self 1 là Abandon thứ cần thiết, biết rằng nó sẽ ổn thôi
 
-## 8.4
+### 8.3.1. The outer game that I want to play
+Nâng mức trải nghiệm của cuộc sống lên qua việc trở nên giàu có
+
+Luyện các kỹ năng để giúp mình giàu:
+- Kỹ năng về technical, ở đây là lập trình, giúp mình đủ khả năng làm trong công ty để kiếm được mức lương cơ bản.
+- Kỹ năng về selling, tức là bán được sản phẩm
+- Kỹ năng về public speaking, vì public speaking giúp mình nói ra suy nghĩ 
+- Kỹ năng về building relationship, để tạo được các mối quan hệ
+
+Một điều **quan trọng** là nó phải develop thành **our discovery of our skill**
+
+

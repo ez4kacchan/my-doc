@@ -7,7 +7,7 @@ draft: false
 tags:
   - baseball
   - daily-thing
-description: Ball and Gloves
+description: về ball and gloves
 ---
 
 # Mua bóng chày

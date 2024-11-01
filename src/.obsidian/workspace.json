@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/work-to-achieve-our-dream.md",
+                "file": "content/blog/computer-networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "work-to-achieve-our-dream"
+              "title": "computer-networking"
             }
           }
         ],
@@ -179,6 +179,9 @@
   },
   "active": "5a6864b06b226454",
   "lastOpenFiles": [
+    "content/blog/redtail-ecommerce-roadmap.md",
+    "content/blog/playing-baseball.md",
+    "content/blog/operating-system.md",
     "content/blog/work-to-achieve-our-dream.md",
     "content/blog/why-so-many-people-making-assumption.md",
     "assets/images/2024-10-28_14-28-53.png",
@@ -190,9 +193,7 @@
     "assets/images/20241022024933.png",
     "assets/images/20241022030333.png",
     "assets/images/20241022030908.png",
-    "content/blog/operating-system.md",
     "content/blog/hhkb professional hybrid type-s.md",
-    "content/blog/playing-baseball.md",
     "assets/images/multiqueue.png",
     "content/blog/computer-networking.md",
     "content/blog/text-to-speech.md",
@@ -200,7 +201,6 @@
     "content/blog/data-structure.md",
     "content/blog/kataoka-tesshin.md",
     "content/blog/never-leave-anyone-alone.md",
-    "content/blog/redtail-ecommerce-roadmap.md",
     "assets/images/kataoka1.png~",
     "Untitled",
     "content/blog/about.md"

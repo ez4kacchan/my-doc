@@ -164,4 +164,38 @@ Tốc độ tiến trình hướng CPU phụ thuộc vào **tốc độ CPU**. C
 - Có **2 cơ chế** khi nói về **MLFB**: 
 	- Các tiến trình hướng I/O sẽ được ở hàng đợi ưu tiên cao,  hướng CPU thì ngược lại
 	- Cơ chế **Ageing**: đợi quá lâu ở hàng đợi ưu tiên thấp sẽ được chuyển lên cao
-	
+	- 
+## 2.5. Định thời đa bộ xử lý
+Có 2 cách tiếp cận là: **đa xử lý bất đối xứng** và **đa xử lý đối xứng** 
+Ví dụ về các bộ:
+- CPU có nhiều lõi vật lý (Multicore CPUs)
+- CPU có nhiều luồng xử lý trên một lõi (Multithreaded cores) 
+- Hệ thống NUMA (non-uniform memory access)
+- Đa xử lý không đồng nhất (Heterogeneous multiprocessing) 
+### 2.5.1. Đa xử lý bất đối xứng 
+- Tất cả các thao tác lập lịch, xử lí I/O được thực hiện bởi **1 bộ xử lý** - hay còn gọi là master server.
+- Còn **các bộ** còn lại thì xử lý user code.
+-> **Đơn giản**, không cần chia sẻ dữ liệu giữa các bộ
+-> **Tuy nhiên**, sẽ có hiện tượng nghẽn ở master server **(bottleneck)** gây giảm hiệu suất của hệ thống
+### 2.5.2. Đa xử lý đối xứng
+- Mỗi bộ xử lý **tự định thời** cho chính nó.
+- Hai hướng xử lý tiểu trình cần định thời:
+	- Các tiểu trình xếp trong cùng 1 hàng đợi trước khi chia ra cho từng bộ xử lý
+	-> xảy ra hiện tượng tranh chấp tiến trình giữa các bộ xử lý -> **bottleneck**
+	- Mỗi bộ xử lý tự tổ chức hàng đợi của riêng nó -> coi như là mỗi tiến trình, bộ xử lý có **1 không gian riêng**
+### 2.5.3. Cân bằng tải (Load balancing)
+**Mục đích**: Không thể để 1 core chạy hết các tác vụ mà phải phân đều ra
+
+-> 2 cách:
+- **Push Migration**: Có một tác vụ riêng để kiểm tra định kỳ lượng tải của các core. Nếu xảy ra quá tải ở đâu thì thực hiện đẩy qua các core ít tải
+- **Pull Migration**: **Không đẩy** mà các core ít tải sẽ **kéo** các tác vụ từ các core bận.
+### 2.5.4. Processor Affinity
+Quá trình bộ nhớ đệm **(Cache)** lưu trữ các dữ liệu của tác vụ trên bộ xử lý hiện tại
+
+-> Khi thực hiện cân bằng tải sẽ xảy ra 2 điều:
+- **Repopulate**: Cache của bộ xử lý mới phải được nạp lại 
+- **Invalidate**: Cache của bộ xử lý cũ phải được giải phóng
+
+**=> Procces Affinity**: Tức là liên kết tác vụ vào các core cụ thể nhằm **cải thiện hiệu suất** bởi giảm thiểu **context switches** và **cache đã có sẵn trên core đó đỡ phải nạp lại hay giải phóng**
+
+Có 2 dạng liên 5

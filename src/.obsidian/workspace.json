@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/stop-worrying-and-start-living.md",
+                "file": "content/blog/redtail-ecommerce-roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stop-worrying-and-start-living"
+              "title": "redtail-ecommerce-roadmap"
             }
           }
         ]
@@ -162,14 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c13f858b471a1cb8",
+  "active": "62756038867163cd",
   "lastOpenFiles": [
     "content/blog/stop-worrying-and-start-living.md",
+    "content/blog/redtail-ecommerce-roadmap.md",
     "content/blog/operating-system.md",
     "content/templates/note.md",
     "content/blog/work-to-achieve-our-dream.md",
-    "content/blog/stop-worrying-and-start-living.md",
-    "content/blog/redtail-ecommerce-roadmap.md",
     "content/blog/why-so-many-people-making-assumption.md",
     "content/blog/stop-worrying-and-start-living",
     "content/blog/never-leave-anyone-alone.md",

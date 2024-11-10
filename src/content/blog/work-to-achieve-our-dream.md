@@ -169,5 +169,3 @@ Luyện các kỹ năng để giúp mình giàu:
 - Kỹ năng về building relationship, để tạo được các mối quan hệ
 
 Một điều **quan trọng** là nó phải develop thành **our discovery of our skill**
-
-

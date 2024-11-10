@@ -5,8 +5,27 @@ title: Bỏ qua nỗi lo và thực sự sống
 featured: false
 draft: false
 tags:
-  - assistant
+  - myself
 description: Example
 ---
 ## Table of contents
-# Key
+## Điều quan trọng nhất
+Sống cho từng ngày từng giờ từng phút
+
+Mỗi ngày là một vách ngăn riêng biệt
+
+## Các câu thần chú
+- Willis H.Carrier:
+	- 1. Điều gì tệ nhất có thể xảy ra
+	- 2. Tự nhận trước tai hại đó
+	- 3. Tìm cách cải thiện tình thế đó.
+- Cách xử lý vấn đề:
+	- 1. Thu thập tất cả các sự kiện cần thiết cho vấn đề một cách vô tư khách quan
+	- 2. Chỉ quyết định, đưa ra giải pháp khi đến thời điểm. Thông thường giải pháp sẽ tự hiện ra
+	- 3. Làm theo giải pháp đã đề ra mà không nghĩ gì.
+- Đánh máy lên blog.
+- Form để giải đưa ra giải pháp mọi nỗi lo âu:
+	- 1. Aware nỗi khó khăn là gì ? 
+	- 2. Aware nguyên nhân ở đâu ?
+	- 3. Có cách nào giải quyết được
+	- 4. Giải quyết nào là hợp lý nhất

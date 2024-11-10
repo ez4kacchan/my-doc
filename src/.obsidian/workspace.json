@@ -11,10 +11,14 @@
             "id": "62756038867163cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/stop-worrying-and-start-living.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "stop-worrying-and-start-living"
             }
           }
         ]
@@ -158,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62756038867163cd",
+  "active": "c13f858b471a1cb8",
   "lastOpenFiles": [
+    "content/blog/stop-worrying-and-start-living.md",
     "content/blog/operating-system.md",
     "content/templates/note.md",
     "content/blog/work-to-achieve-our-dream.md",

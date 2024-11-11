@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bo-di-noi-lo.md",
+                "file": "content/blog/bo-di-noi-lo.md",
                 "mode": "source",
                 "source": false
               },
@@ -233,10 +233,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb3b497db6abe8cf",
+  "active": "c13f858b471a1cb8",
   "lastOpenFiles": [
     "content/blog/stop-worrying-and-start-living.md",
-    "bo-di-noi-lo.md",
+    "content/blog/bo-di-noi-lo.md",
     "content/blog/work-to-achieve-our-dream.md",
     "assets/images/usermode_kernelmode.png",
     "content/blog/text-to-speech.md",

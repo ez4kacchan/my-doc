@@ -4,9 +4,8 @@ pubDatetime:
 title: 
 featured: false
 draft: false
-tags:
-  - assistant
+tags: []
 description:
 ---
 ## Table of contents
-# Example 
+## Example 

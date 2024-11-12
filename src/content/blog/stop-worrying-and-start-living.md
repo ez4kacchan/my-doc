@@ -30,7 +30,7 @@ Mỗi ngày là một vách ngăn riêng biệt
 	- 3. Có cách nào giải quyết được
 	- 4. Giải quyết nào là hợp lý nhất
 - Kiếm việc làm hay "relaxed concentration" để không suy nghĩ về lo âu
-- Có 2 cách:
+- Có 4 cách:
 	- 1. Tính phần trăm xác suất xảy ra.
 	- 2. Hợp tác với tình thế không thể tránh được
 	- 3. Hạn chế nỗi lo lại hay còn gọi là giảm thiệt hại xuống.

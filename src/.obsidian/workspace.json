@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/bo-di-noi-lo.md",
+                "file": "content/blog/stop-worrying-and-start-living.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bo-di-noi-lo"
+              "title": "stop-worrying-and-start-living"
             }
           }
         ],
@@ -235,8 +235,8 @@
   },
   "active": "378a495319415b4a",
   "lastOpenFiles": [
-    "content/templates/stop-worrying-form.md",
     "content/blog/bo-di-noi-lo.md",
+    "content/templates/stop-worrying-form.md",
     "content/blog/computer-networking.md",
     "content/blog/data-structure.md",
     "content/blog/floating-ideas.md",

@@ -89,3 +89,46 @@ description: Example
 	- 5. Khi nào tôi bắt đầu hành động? 
 		- Chiều nay 
 		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo mua áo sơ mi
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Không biết lựa chỗ mua áo, chọn đại thì áo không hợp 
+	- [ ] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [ ] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 50%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Áo sơ mi không hợp với mình 
+	- 2. Aware nguyên nhân là do đâu:
+		- Do đánh giá của người khác hay của chính mình 
+	- 3. Có những giải pháp nào:
+		- Đặt hàng online cho hợp
+		- Hạn chế nỗi lo mua hãng mà mọi người hay mua 
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Chọn Viettien ở đường Yersin để mua áo  
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Khi đón Phát về 
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo mình đang làm việc mà chưa đúng quần áo, setup khi làm việc, mồ hôi ra, chưa tắm rửa, ...
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Không làm được việc gì
+	- [ ] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [x] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 100%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Là mình cứ suy nghĩ về những cái đó
+	- 2. Aware nguyên nhân là do đâu:
+		- Do Self 1 cứ nghĩ là phải hoàn thành công việc
+	- 3. Có những giải pháp nào:
+		- Bỏ đi Self 1 và đặt bản thân below Self 2
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Bỏ đi Self 1 và đặt bản thân below Self 2
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Bây giờ
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**

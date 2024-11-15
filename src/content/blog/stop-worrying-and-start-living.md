@@ -39,6 +39,4 @@ Mỗi ngày là một vách ngăn riêng biệt
 ## Nhìn những thứ in present
 - Đếm những thứ ta có và thấy được ở hiện tại. Nó không phải "đếm những thứ tốt xung quanh ta, và bỏ qua những thứ tệ" mà là không đánh giá những thứ xảy ra quanh -> chỉ đơn thuần nhìn nó là nó 
 - Trở nên không phụ thuộc vào bất cứ sự vật, sự việc hay con người. 
-- Tôi không phụ thuộc vào bàn phím để học
-- Tôi không phụ thuộc vào tiền để khởi nghiệp
-- Tôi không phụ thuộc vào điểm trên trường để nhận được công việc, để có kiến thức về các lĩnh vực
+- Ta có được quả chanh, nó chua và hãy biến nó thành một ly nước chanh ngọt

@@ -19,3 +19,13 @@ Tôi nhờ dịch vụ order bên Nhật về khoảng 6,500,000 VND
 ![RedTail](../../assets/images/RedTail.png)
 
 ## 1.2. Hàng về
+Một số hình ảnh:
+![image](../../assets/images/photo_2024-11-15_09-22-55.jpg)
+
+![image](../../assets/images/photo_2024-11-13_15-42-27.jpg)
+![image](../../assets/images/photo_2024-11-13_15-42-28.jpg)
+
+Tính chính xác thì mất tổng cộng gần 3 tuần để từ bên Nhật về tới Hồ Chí Minh
+
+## 2.1. Cảm nhận
+Về cảm giác ấn, nó rất khác so với kiểu bàn phím cơ. Không cảm giác **cạch cạch** mà rất mềm mượt. **Vô cùng thích hợp** để gõ văn bản, coding.

@@ -132,3 +132,111 @@ description: Example
 	- 5. Khi nào tôi bắt đầu hành động? 
 		- Bây giờ
 		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo về bố mẹ
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Bố mẹ chia tay và mình không sống trong một gia đình nữa. 
+	- [ ] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [ ] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 20%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Bố mẹ cãi nhau
+	- 2. Aware nguyên nhân là do đâu:
+		- Bất đồng quan điểm giữa 2 người. Áp lực từ công việc đối với người không có khả năng kiểm soát áp lực 
+	- 3. Có những giải pháp nào:
+		- Hỏi thăm mẹ và cha Lương và tìm ẩn khúc
+		- Không làm gì hết, để mọi thứ tự hết
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Hỏi thăm mẹ và cha Lương và tìm ẩn khúc 
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Bây giờ 
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo tình trạng của cha lương với mẹ hương
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Sức khỏe của cha Lương với mẹ đi xuống 
+	- [ ] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [ ] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 80%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Tình trạng sức khỏe cha Lương với mẹ giảm 
+	- 2. Aware nguyên nhân là do đâu:
+		- Do bất đồng ở cả 2 người 
+	- 3. Có những giải pháp nào:
+		- Vì đã có sự thẳng thắn giữa hai người nên sự xung đột không còn ở mức đỉnh điểm. Nên sẽ để mọi chuyển giải quyết tự nhiên
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Để mọi chuyện giải quyết tự nhiên
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Từ bây giờ
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo thiếu ngủ uể oải
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Đau đầu và làm việc châm hơn bth
+	- [x] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [ ] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 90%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Nghĩ là mình sẽ uể oải
+	- 2. Aware nguyên nhân là do đâu:
+		- Thiếu ngủ
+	- 3. Có những giải pháp nào:
+		- Đi ngủ
+		- Mặc kệ buồn ngủ, và chấp nhận learning to focus
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Mặc kệ buồn ngủ và chấp nhận learning to focus
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Bây giờ
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo mất tiền xe 
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Tốn nhiều tiền sửa xe, cha Lương đánh giá, không có xe đi, ảnh hưởng đến kế hoạch
+	- [ ] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [x] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 80%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Mình làm trầy xe và thiệt hại về tiền và vật chất
+	- 2. Aware nguyên nhân là do đâu:
+		- Mình chạy không để ý 
+	- 3. Có những giải pháp nào:
+		- Mặc kệ và tích cực trong các hoạt động sửa chữa
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Mặc kệ và tích cực trong các hoạt động sửa chữa
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Lúc nào có hoạt động liên quan đến sửa chữa
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo bị người khác để ý
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Người khác đánh giá thấp mình và không để ý mình 
+	- [x] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [ ] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 100%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		-  
+	- 2. Aware nguyên nhân là do đâu:
+		- 
+	- 3. Có những giải pháp nào:
+		- 
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- 
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- 
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Tôi không phụ thuộc

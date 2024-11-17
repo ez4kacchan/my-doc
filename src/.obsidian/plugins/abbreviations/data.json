@@ -1,0 +1,9 @@
+{
+  "abbreviations": {
+    "obsimg": {
+      "value": "![image](../../assets/images/",
+      "isEnabled": true,
+      "position": 0
+    }
+  }
+}

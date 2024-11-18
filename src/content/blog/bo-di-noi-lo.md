@@ -239,4 +239,27 @@ description: Example
 	- 5. Khi nào tôi bắt đầu hành động? 
 		- 
 		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo bị mọi người nhìn thấy và đánh giá
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Moị người khinh cái mình đang làm không đúng với những tiêu chuẩn của họ 
+	- [ ] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [ ] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 50%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Mọi người đánh giá mình và nhớ mặt mình 
+	- 2. Aware nguyên nhân là do đâu:
+		- Do mình làm những thứ không phù hợp với tiêu chuẩn của họ 
+	- 3. Có những giải pháp nào:
+		- Mặc kệ và tiếp tục làm vì xác suất mình tiếp xúc với họ khá thấp. Và xác suất thông tin họ nhớ còn thấp hơn nữa. 
+		- Không làm nữa và giả bộ học lập trình như bao người
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Mặc kệ và tiếp tục làm vì xác suất mình tiếp xúc với họ khá thấp. 
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Bây giờ vì tôi đang làm việc đó để learn to focus 
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
 ## Tôi không phụ thuộc
+

@@ -40,3 +40,5 @@ Mỗi ngày là một vách ngăn riêng biệt
 - Đếm những thứ ta có và thấy được ở hiện tại. Nó không phải "đếm những thứ tốt xung quanh ta, và bỏ qua những thứ tệ" mà là không đánh giá những thứ xảy ra quanh -> chỉ đơn thuần nhìn nó là nó 
 - Trở nên không phụ thuộc vào bất cứ sự vật, sự việc hay con người. 
 - Ta có được quả chanh, nó chua và hãy biến nó thành một ly nước chanh ngọt
+## Các lời chỉ trích
+Nếu nhìn kỹ thì những lời chỉ trích **xuất phát** từ đối thủ của chúng ta, người đem đến **những chướng ngại vật** để ta được hòa mình vào **cuộc khám phá những khả năng ẩn giấu** của bản thân. Vậy tại sao không **cảm ơn** họ.

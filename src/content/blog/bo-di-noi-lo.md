@@ -261,5 +261,49 @@ description: Example
 	- 5. Khi nào tôi bắt đầu hành động? 
 		- Bây giờ vì tôi đang làm việc đó để learn to focus 
 		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo phải hoàn thành deadline dự án
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Deadline không hoàn thành, đồ án performance kém. Các thành viên khác trong team chỉ trích và ấn tượng xấu về mình 
+	- [ ] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [x] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 10% 
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Sợ không hoàn thành kịp trước deadline và dự án không được tốt như mong đợi 
+	- 2. Aware nguyên nhân là do đâu:
+		- Mọi người không push và mình mong đợi nó tốt.
+	- 3. Có những giải pháp nào:
+		- Push mọi người. 
+		- Mặc kệ bao giờ có người push mình rồi mình làm
+		- Push mọi người và nhìn dự án là các chướng ngại vật để mình khám phá khả năng tiềm ẩn của bản thân
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Push mọi người và nhìn dự án là các chướng ngại vậy để mình khám phá khả năng tiềm ẩn của bản thân 
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Khi nào tương tác xã hội với các thành viên thì mình sẽ push 
+## Form nỗi lo phải làm bài tập trên trường
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Điểm thấp và rớt môn  
+	- [ ] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [x] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 50%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Lo bị điểm thấp vì không làm quiz trên trường
+	- 2. Aware nguyên nhân là do đâu:
+		- Thức khuya 
+	- 3. Có những giải pháp nào:
+		- Ngủ 
+		- 
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		-  
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- 
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
 ## Tôi không phụ thuộc
 

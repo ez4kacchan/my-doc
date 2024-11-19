@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tuong-tac-xa-hoi.md",
+                "file": "content/blog/bo-di-noi-lo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tuong-tac-xa-hoi"
+              "title": "bo-di-noi-lo"
             }
           }
         ],
@@ -193,13 +193,14 @@
   },
   "active": "35d9b1f903318f84",
   "lastOpenFiles": [
-    "content/blog/retail-and-resell.md",
+    "content/templates/stop-worrying-form.md",
+    "content/templates/note.md",
+    "content/blog/bo-di-noi-lo.md",
     "tuong-tac-xa-hoi.md",
+    "content/blog/retail-and-resell.md",
     "content/blog/stop-worrying-and-start-living.md",
     "content/blog/work-to-achieve-our-dream.md",
     "content/blog/computer-networking.md",
-    "content/blog/bo-di-noi-lo.md",
-    "content/templates/stop-worrying-form.md",
     "content/blog/operating-system.md",
     "content/blog/cuoc-choi-dang-de-choi.md",
     "content/blog/reading-book-list.md",
@@ -217,7 +218,6 @@
     "assets/images/2024-11-15_08-50-43.png",
     "assets/images/2024-10-28_14-28-53.png",
     "assets/images/2024-10-28_14-24-29.png",
-    "content/templates/note.md",
     "content/blog/data-structure.md",
     "content/blog/floating-ideas.md",
     "content/blog/never-leave-anyone-alone.md",

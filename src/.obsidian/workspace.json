@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/bo-di-noi-lo.md",
+                "file": "content/blog/stop-worrying-and-start-living.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bo-di-noi-lo"
+              "title": "stop-worrying-and-start-living"
             }
           }
         ],
@@ -193,9 +193,9 @@
   },
   "active": "35d9b1f903318f84",
   "lastOpenFiles": [
+    "content/blog/bo-di-noi-lo.md",
     "content/templates/stop-worrying-form.md",
     "content/templates/note.md",
-    "content/blog/bo-di-noi-lo.md",
     "tuong-tac-xa-hoi.md",
     "content/blog/retail-and-resell.md",
     "content/blog/stop-worrying-and-start-living.md",

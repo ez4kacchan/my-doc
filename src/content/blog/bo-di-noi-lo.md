@@ -305,5 +305,93 @@ description: Example
 	- 5. Khi nào tôi bắt đầu hành động? 
 		- 
 		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo bị người khác nhìn thấy mình làm gì
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Người ta biết mình đang thiệt sự làm điều xấu và đánh giá, đề phòng hay cái gì gì đó 
+	- [x] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [ ] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 90%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Người ta thấy mình làm việc xấu 
+	- 2. Aware nguyên nhân là do đâu:
+		- Do mình để cho người khác nhìn thấy 
+	- 3. Có những giải pháp nào:
+		- Mặc kệ và tiếp tục làm
+		- Không làm nữa 
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Mặc kệ và tiếp tục làm 
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Bây giờ vì tôi cần learn to focus 
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo trễ giờ
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Mình không kịp đá trận của mình và đến ngồi coi  
+	- [x] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [ ] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 50%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Sắp tới giờ đá banh ở năng khiếu mà mình chưa bắt đầu đi
+	- 2. Aware nguyên nhân là do đâu:
+		- Mình chưa tính đi 
+	- 3. Có những giải pháp nào:
+		- Mặc kệ và đến trễ
+		- Tính toán lại thời gian để đến đúng 12h
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Tính toán lại thời gian để đến đúng 12h 
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Bây giờ 
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo điểm quá trình môn Nhập môn mạng máy tính dưới 7 điểm
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Điểm quá trình và điểm thực hành môn Nhập môn mạng máy tính tuột xuống dưới 7 điểm
+	- [ ] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [x] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 70%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Bài báo cáo của Lab 1 và Lab 2 và Lab 3 chưa đủ để trên 7 
+	- 2. Aware nguyên nhân là do đâu:
+		- Mình làm bài báo cáo khá muộn 
+	- 3. Có những giải pháp nào:
+		- Lab 4 và Lab 5 mình sẽ bắt đầu làm liền từ ngày ra task
+		- Mặc kệ điểm quá trình 
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Lab 4 và Lab 5 mình sẽ bắt đầu làm liền khi mà có task 
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Khi đến Lab 4 và Lab 5 
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+## Form nỗi lo không giải quyết được muộn và mặt mình trở nên xấu đi
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Mặt mình đầy mụn và sẹo rỗ 
+	- [ ] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [x] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 100%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Mụn mọc lên nhiều và không kiểm soát được. Cũng như là không có cách giải quyết thâm mụn và sẹo 
+	- 2. Aware nguyên nhân là do đâu:
+		- Tiêu thụ đường, nước ngọt và đồ ăn không healthy 
+	- 3. Có những giải pháp nào:
+		- Ngừng tiêu thụ đường, nước ngọt và đồ ăn không healthy. 
+		- Mình giữ cho mặt vẫn in shape
+		- Mình mặc kệ và cho mụn hết thì nó hết
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Ngừng tiêu thụ đường, nước ngọt và đồ ăn không healthy 
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Bây giờ 
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
 ## Tôi không phụ thuộc
-

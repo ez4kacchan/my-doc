@@ -48,3 +48,10 @@ Nếu nhìn kỹ thì những lời chỉ trích **xuất phát** từ đối th
 2. Việc quan trọng và gấp thì làm trước
 3. Công việc đã **đủ sự kiện** thì giải quyết liền
 4. Học cách tổ chức và **trao quyền** kiểm soát, điều hành cho người khác
+
+## 5. Sự vui vẻ hứng thứ khi làm việc
+**Self 2** chính là người làm mọi công việc cho chúng ta. Để **giao tiếp** với Self 2, chúng ta có thể **ask for qualities**. Hay nói chính xác hơn là role-playing. **Quên đi chúng ta** và **đóng vai được giao**.
+
+**Hãy đóng vai một người vui vẻ làm việc và yêu thích với công việc**
+
+=> Học nghệ thuật vui vẻ và yêu thích làm bất cứ việc gì

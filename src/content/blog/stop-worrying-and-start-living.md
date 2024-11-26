@@ -55,3 +55,14 @@ Nếu nhìn kỹ thì những lời chỉ trích **xuất phát** từ đối th
 **Hãy đóng vai một người vui vẻ làm việc và yêu thích với công việc**
 
 => Học nghệ thuật vui vẻ và yêu thích làm bất cứ việc gì
+
+## 6. Thượng đế hay bản thể quyền lực sẽ tính toán hết mọi thứ
+Mình đã hiểu rõ rất nhiều về Self 2. Self 2 là bản ngã **giúp mình làm hết** mọi công việc mà không cần phải ra chỉ thị. Một vài khả năng của **bản thể quyền lực** khiến cho mình phải **trân trọng** hơn: 
+- Bản thể thực hiện việc nhận diện hình ảnh
+- Bản thể thực hiện việc tính toán
+- Bản thể thực hiện di chuyển cơ thể tới vị trí được tiếp nhận qua thị giác
+- Bản thể thực hiện hít thở không khí
+- Bản thể thực hiện lựa chọn các đồ vật đâu là thứ ăn được
+
+**Vâng, Thượng đế điều khiển và tính toán mọi công việc. Có Ngài đã lo rồi thì mọi sự đều sẽ hoàn thiện hết. Ngài tính cho sự ong bướm thụ phấn cho hoa và hoa đồng thời cung cấp dinh dưỡng cho ong bướm. Ngài tính cho hình xoắn của vỏ ốc, cách sắp lá trên cành theo tỷ lệ Fibonacci để giúp tiết kiệm năng lượng nhất. Ngài tính cho cây xanh hấp thụ CO2 và thải ra O2 để con người có thể hấp thụ O2 và thải ra CO2. Ngài tính cho chu kì ngày đêm để nhiệt độ lun ở mức ổn định. Ngài tính cho trái đất lun xoay quanh mặt trời và giữ cho sự sống trái đất tồn tại. Vậy cớ gì mình lại đi ưu tư?**
+

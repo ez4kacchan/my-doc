@@ -29,4 +29,5 @@ description:
 	- 5. Khi nào tôi bắt đầu hành động? 
 		- 
 		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
-## Tôi không phụ thuộc
+- 4. Tôi **không phụ thuộc** vào
+	- 

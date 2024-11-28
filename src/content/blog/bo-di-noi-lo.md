@@ -400,19 +400,49 @@ description: Example
 	- [ ] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
 	- [x] Tôi hạn chế sự lo xuống
 - 2. Tự nhận trước tai hại đó:
-	- Có xác suất bao nhiêu phần trăm xảy ra: 30%
+	- Có xác suất bao nhiêu phần trăm xảy ra: 10% (xác suất nhớ mặt là: 1000 mặt trên 10000 mặt)
 	- **Vậy thì hợp tác với tình cảnh đó đi**
 - 3. Tìm cách cải thiện tình thế:
 	- 1. Aware nỗi khó khăn là gì:
-		- 
+		- Khách hàng tiềm năng đánh giá mình
 	- 2. Aware nguyên nhân là do đâu:
-		- 
+		- Do mình làm những thứ mình làm ?? 
 	- 3. Có những giải pháp nào:
-		- 
+		- Mặc kệ người ta làm điều mình làm bất kể đó là điều xấu hay tốt 
+		- Hạn chế xuống bằng cách giảm thiểu việc làm xã hội cho là tệ nạn. Chú trọng hơn vào **mục đích** của việc làm đó
 	- 4. Giải pháp nào là hợp lý nhất:
 		- **Đây tôi hành động như vậy:**
-		- 
+		-  Hạn chế xuống bằng cách giảm thiểu việc làm xã hội cho là tệ nạn. Chú trọng hơn vào mục đích của việc làm đó 
 	- 5. Khi nào tôi bắt đầu hành động? 
-		- 
+		- Khi nào tôi làm gì đó 
 		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
-## Tôi không phụ thuộc
+- 4. Tôi **không phụ thuộc** vào
+	- Khách hàng tiềm năng để phát triển
+	- Làm việc tốt hay việc xấu để mọi người chấm điểm 
+
+## Form nỗi lo sát giờ của công việc buổi chiều 
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Bị trễ giờ  
+	- [x] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [ ] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 0.1%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Sợ bị trễ giờ và nghĩ là không đủ giờ làm công việc hiện tại 
+	- 2. Aware nguyên nhân là do đâu:
+		- Ở cách xa chỗ công việc buổi chiều 
+	- 3. Có những giải pháp nào:
+		- Tính toán giờ đi và hạn chế sự trễ xuống  
+		- Ngồi canh từng phút
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Tính toán giờ đi và hạn chế sự trễ xuống 
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Bây giờ 
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+- 4. Tôi **không phụ thuộc** vào
+	- Vị trí để hành động
+	- Việc có mặt sớm
+	- 

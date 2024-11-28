@@ -1,7 +1,7 @@
 ---
 author: Đào Vũ Hưng
 pubDatetime: 2024-11-28T05:05:25Z
-title: 
+title: Analytic Geometric
 featured: false
 draft: false
 tags:

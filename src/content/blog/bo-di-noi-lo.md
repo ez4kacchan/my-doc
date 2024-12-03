@@ -445,4 +445,29 @@ description: Example
 - 4. Tôi **không phụ thuộc** vào
 	- Vị trí để hành động
 	- Việc có mặt sớm
-	- 
+## Form nỗi lo bị người mình đang target nhìn thấy cái bề ngoài mà mình đang show lên 
+- 1. Điều gì tệ nhất có thể xảy ra:
+	- Họ sẽ chú ý, và đánh giá không phù hợp với cái chuẩn mực mà họ đang hướng tới 
+	- [x] Tôi thấy nó quá lặt vặt so với **bị bệnh ung thư dạ dày khi nghĩ nhiều về nó**
+	- [ ] Tôi hạn chế sự lo xuống
+- 2. Tự nhận trước tai hại đó:
+	- Có xác suất bao nhiêu phần trăm xảy ra: 50%
+	- **Vậy thì hợp tác với tình cảnh đó đi**
+- 3. Tìm cách cải thiện tình thế:
+	- 1. Aware nỗi khó khăn là gì:
+		- Khách hàng tiềm năng đánh giá không hợp với tiêu chuẩn của họ 
+	- 2. Aware nguyên nhân là do đâu:
+		- Do mình có những cái tính cách mà mình cho cái Profile tương ứng nhận  
+	- 3. Có những giải pháp nào:
+		- Tôi sẽ thay đổi những tính cách khi mà người ta có biểu hiện đánh giá không phù hợp
+		- Mặc kệ bởi vì tôi biết rằng mình đang tìm những người như thế nào
+	- 4. Giải pháp nào là hợp lý nhất:
+		- **Đây tôi hành động như vậy:**
+		- Tôi sẽ thay đổi những tính cách khi mà người ta có biểu hiện đánh giá không hợp 
+	- 5. Khi nào tôi bắt đầu hành động? 
+		- Khi mà người ta biểu hiện 
+		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
+- 4. Tôi **không phụ thuộc** vào
+	- việc khách hàng tiềm năng đánh giá hợp
+	- tính cách của mình
+	- khách hàng đó

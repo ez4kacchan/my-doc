@@ -125,16 +125,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/dong-bo-tien-trinh.md",
+                "file": "content/blog/operating-system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dong-bo-tien-trinh"
+              "title": "operating-system"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -275,14 +275,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3df8d03c7c03d0b",
+  "active": "39828cca24360fd1",
   "lastOpenFiles": [
+    "assets/images/2024-12-03_22-28-54.png",
+    "Pasted image 20241203222844.png",
+    "content/blog/operating-system.md",
+    "content/blog/dong-bo-tien-trinh.md",
     "assets/images/2024-12-03_14-17-15.png",
     "content/blog/computer-networking.md",
     "content/blog/cuoc-choi-dang-de-choi.md",
     "content/blog/never-leave-anyone-alone.md",
     "content/blog/qua-phu-thuoc-vao-outer-game.md",
-    "content/blog/dong-bo-tien-trinh.md",
     "content/blog/vector-calculus.md",
     "content/blog/analytic-geometric.md",
     "content/blog/data-structure.md",
@@ -297,7 +300,6 @@
     "tuong-tac-xa-hoi.md",
     "content/blog/retail-and-resell.md",
     "content/blog/work-to-achieve-our-dream.md",
-    "content/blog/operating-system.md",
     "content/blog/reading-book-list.md",
     "content/blog/thay-doi-approach.md",
     "content/blog/text-to-speech.md",
@@ -311,8 +313,6 @@
     "assets/images/2024-11-15_09-02-42.png",
     "2024-11-15_08-50-43.png",
     "assets/images/2024-11-15_08-50-43.png",
-    "assets/images/2024-10-28_14-28-53.png",
-    "assets/images/2024-10-28_14-24-29.png",
     "content/blog/stop-worrying-and-start-living",
     "assets/images/kataoka1.png~"
   ]

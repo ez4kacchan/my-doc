@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vector-calculus.md",
+                "file": "content/blog/vector-calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "vector-calculus"
             }
+          },
+          {
+            "id": "39828cca24360fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dong-bo-tien-trinh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dong-bo-tien-trinh"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -247,10 +261,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "538a8652d14098ad",
+  "active": "39828cca24360fd1",
   "lastOpenFiles": [
+    "content/blog/vector-calculus.md",
+    "dong-bo-tien-trinh.md",
     "content/blog/analytic-geometric.md",
-    "vector-calculus.md",
     "content/blog/data-structure.md",
     "content/blog/playing-baseball.md",
     "content/blog/never-leave-anyone-alone.md",
@@ -284,7 +299,6 @@
     "assets/images/2024-10-28_14-24-29.png",
     "content/blog/floating-ideas.md",
     "content/blog/redtail-ecommerce-roadmap.md",
-    "content/blog/why-so-many-people-making-assumption.md",
     "content/blog/stop-worrying-and-start-living",
     "assets/images/kataoka1.png~"
   ]

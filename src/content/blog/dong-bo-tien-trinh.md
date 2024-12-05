@@ -40,5 +40,6 @@ boolean flag[2];
 	- Bounded Waiting: Sau khi **kết thúc** remainder section, P0 không phải đợi **quá lâu** (1 lượt critical state P1) để vào critical state
 ### 2.2. Giải pháp Peterson và kiến trúc hiện đại
 Ở các kiểu kiến trúc **hiện đại**, một vài tính chất không giúp ích giải pháp **Peterson**: 
-- Để cải thiện **hiệu suất**, vi xử lý hoặc trình biên dịch sẽ **sắp xếp** lại các **thao tác** mà **độc lập** với nhau
-- 
+- Để cải thiện **hiệu suất**, vi xử lý hoặc trình biên dịch sẽ **sắp xếp** lại các **thao tác** mà **độc lập** với nhau -> sự **không nhất quán** ở các tiến trình **đa tiểu trình** -> các tiến trình đơn tiểu trình vẫn ổn
+
+Dẫn đến, **flag** và **turn** bị đổi chỗ -> **Memory Barrier**

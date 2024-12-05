@@ -79,7 +79,8 @@ Distance được gọi là **metric** khi:
 1. Positive Definite: $$
   d(\mathbf{x}, \mathbf{y}) \geq 0 \quad \text{for all } \mathbf{x}, \mathbf{y} \quad \text{and}\quad d(\mathbf{x}, \mathbf{y}) = 0 \iff \mathbf{x} = \mathbf{y}
 $$
-2. Symmetric: $$
+2. Symmetric: 
+$$
    d(\mathbf{x}, \mathbf{y}) = d(\mathbf{y}, \mathbf{x})
 $$
 3. Triangle Inequality: $$

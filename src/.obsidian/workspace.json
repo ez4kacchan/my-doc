@@ -4,165 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c477f730c7779de1",
+        "id": "14bc18be4ab698f1",
         "type": "tabs",
         "children": [
           {
-            "id": "f8cf10a0541e446e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/bo-di-noi-lo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bo-di-noi-lo"
-            }
-          },
-          {
-            "id": "7fb78436aed3d16d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/retail-and-resell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "retail-and-resell"
-            }
-          },
-          {
-            "id": "35d9b1f903318f84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/stop-worrying-and-start-living.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "stop-worrying-and-start-living"
-            }
-          },
-          {
-            "id": "a85d52c463beb197",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/stop-worrying-and-start-living.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "stop-worrying-and-start-living"
-            }
-          },
-          {
-            "id": "98327df1c02e9424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/bo-di-noi-lo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bo-di-noi-lo"
-            }
-          },
-          {
-            "id": "c84ccf8422d21cb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/analytic-geometric.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "analytic-geometric"
-            }
-          },
-          {
-            "id": "538a8652d14098ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/vector-calculus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vector-calculus"
-            }
-          },
-          {
-            "id": "39828cca24360fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/vector-calculus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vector-calculus"
-            }
-          },
-          {
-            "id": "f08bc04a0771240c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/analytic-geometric.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "analytic-geometric"
-            }
-          },
-          {
-            "id": "05a193e9ba1afae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/vector-calculus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vector-calculus"
-            }
-          },
-          {
-            "id": "4e59c14bcba1c910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/lam-cho-viec-hoc-tro-nen-vui.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lam-cho-viec-hoc-tro-nen-vui"
-            }
-          },
-          {
-            "id": "1f36f2cd65e173c9",
+            "id": "84c232a0137fd81e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,23 +20,8 @@
               "icon": "lucide-file",
               "title": "coffee-store-chatbot"
             }
-          },
-          {
-            "id": "b3df8d03c7c03d0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/operating-system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "operating-system"
-            }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -328,24 +159,35 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f36f2cd65e173c9",
+  "active": "84c232a0137fd81e",
   "lastOpenFiles": [
+    "assets/images/annotated_2024-12-05_15-58-55.png",
+    "content/blog/output.docx",
     "assets/images/2024-12-05_15-58-55.png",
-    "content/blog/lam-cho-viec-hoc-tro-nen-vui.md",
     "content/blog/coffee-store-chatbot.md",
+    "Excalidraw/annotated_2024-12-05_15-58-55.md",
+    "Excalidraw/annotated_2024-12-05_16-24-08.md",
+    "assets/images/annotated_2024-12-05_16-24-08.png",
+    "assets/images/2024-12-05_18-35-45.png",
+    "assets/images/2024-12-05_16-24-08.png",
+    "Excalidraw",
+    "content/blog/operating-system.md",
+    "content/blog/lam-cho-viec-hoc-tro-nen-vui.md",
     "content/blog/vector-calculus.md",
-    "content/blog/bo-di-noi-lo.md",
-    "content/blog/g2-mongol.md",
     "content/blog/analytic-geometric.md",
+    "content/blog/bo-di-noi-lo.md",
+    "content/blog/stop-worrying-and-start-living.md",
+    "content/blog/retail-and-resell.md",
+    "content/blog/g2-mongol.md",
     "Pasted image 20241203222844.png",
     "content/blog/southampton-vs-chelsea.md",
     "content/blog/reading-book-list.md",
     "content/blog/dong-bo-tien-trinh.md",
     "assets/images/2024-12-03_22-28-54.png",
-    "content/blog/operating-system.md",
     "assets/images/2024-12-03_14-17-15.png",
     "content/blog/computer-networking.md",
     "content/blog/cuoc-choi-dang-de-choi.md",
@@ -355,20 +197,11 @@
     "content/blog/playing-baseball.md",
     "content/templates/stop-worrying-form.md",
     "content/blog/lua-chon-cong-viec.md",
-    "content/blog/stop-worrying-and-start-living.md",
     "content/blog/mo-hinh-ban-hang-chiu-lo.md",
     "content/blog/tuong-tac-xa-hoi.md",
     "content/templates/note.md",
-    "tuong-tac-xa-hoi.md",
-    "content/blog/retail-and-resell.md",
-    "content/blog/work-to-achieve-our-dream.md",
     "assets/images/meis.jpg",
     "assets/2024-11-15_08-50-43.png",
-    "assets/images/photo_2024-11-13_15-42-27.jpg",
-    "assets/images/photo_2024-11-13_15-42-28.jpg",
-    "assets/images/photo_2024-11-15_09-22-55.jpg",
-    "assets/images/2024-11-15_09-02-42.png",
-    "2024-11-15_08-50-43.png",
     "content/blog/stop-worrying-and-start-living",
     "assets/images/kataoka1.png~"
   ]

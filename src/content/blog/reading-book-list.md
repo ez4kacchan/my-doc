@@ -11,3 +11,4 @@ description: Vu Hung
 ## Table of contents
 ## Danh sách sách để đọc:
 - How I Raised Myself from Failure to Success in Selling
+- The E-Myth Revisited (coi review từ ali)

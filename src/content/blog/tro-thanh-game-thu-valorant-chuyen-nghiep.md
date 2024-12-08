@@ -16,6 +16,10 @@ Tôi sử dụng Skyrant cheat, bảng giá:
 - 7 ngày: 35 euros
 - 1 tháng: 75 euros
 - Lifetime: 150 euros
+
+Đặc điểm giúp bản hack **hoạt động tốt**:
+- Crosshair placement + Recover Crosshair
+- Seperate fight
 ## 1.3. Content Creator
 Tôi sẽ có kỹ năng chơi Valorant:
 - Làm video short và tiktok dựa trên **features** mà mình 
@@ -43,4 +47,11 @@ Một vài features:
 	- Các **concept** có thể ứng dụng:
 		- Bật mic trong rank
 		- Trà trộn vào cộng đồng
-	
+### 1.3.2. Phần mềm quay
+- Dùng **OBS**:
+	- Live stream trên youtube:
+		- Không mất **dung lượng** 
+		- Video không chất lượng như khi record vì phụ thuộc vào **băng thông**
+		- FPS không ổn định
+	- Record video:
+		- Chiếm **phần lớn** dung lượng trống của Windows

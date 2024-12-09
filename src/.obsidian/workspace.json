@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/doanh-nghiep-nho.md",
+                "file": "content/blog/diamond-no-ace-tap-40-phan-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "doanh-nghiep-nho"
+              "title": "diamond-no-ace-tap-40-phan-2"
             }
           },
           {
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,11 +216,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb7cf865b5e2244b",
+  "active": "d2e14bfd1ef6ef96",
   "lastOpenFiles": [
     "content/blog/doanh-nghiep-nho.md",
-    "Excalidraw/Drawing2024-12-09excalidraw.md",
     "content/blog/work-to-achieve-our-dream.md",
+    "Excalidraw/Drawing2024-12-09excalidraw.md",
     "content/blog/diamond-no-ace-tap-40-phan-2.md",
     "assets/images/2024-12-09_19.06.04.excalidraw.png",
     "Excalidraw/annotated_2024-12-05_16-24-08.md",

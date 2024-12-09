@@ -48,9 +48,36 @@
               "icon": "lucide-file",
               "title": "diamond-no-ace-tap-40-phan-2"
             }
+<<<<<<< HEAD
+=======
+          },
+          {
+            "id": "6b4f7121156964a6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing2024-12-09excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing2024-12-09excalidraw"
+            }
+          },
+          {
+            "id": "17699e3bf9640f73",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/images/2024-12-09_19.06.04.excalidraw.png"
+              },
+              "icon": "lucide-image",
+              "title": "2024-12-09_19.06.04.excalidraw"
+            }
+>>>>>>> d1ba48f (update post)
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,13 +219,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "d2e14bfd1ef6ef96",
   "lastOpenFiles": [
+=======
+  "active": "6b4f7121156964a6",
+  "lastOpenFiles": [
+    "Excalidraw/annotated_2024-12-05_16-24-08.md",
+    "Excalidraw/Drawing2024-12-09excalidraw.md",
+    "content/blog/doanh-nghiep-nho.md",
+    "assets/images/2024-12-09_19.06.04.excalidraw.png",
+    "content/blog/diamond-no-ace-tap-40-phan-2.md",
+>>>>>>> d1ba48f (update post)
     "content/blog/lam-cho-viec-hoc-tro-nen-vui.md",
     "content/blog/computer-networking.md",
     "content/blog/tro-thanh-game-thu-valorant-chuyen-nghiep.md",
     "content/blog/work-to-achieve-our-dream.md",
+<<<<<<< HEAD
     "content/blog/diamond-no-ace-tap-40-phan-2.md",
+=======
+>>>>>>> d1ba48f (update post)
     "assets/images/2024-12-09_13-04-57.png",
     "content/blog/bo-di-noi-lo.md",
     "content/blog/kataoka-tesshin.md",
@@ -209,7 +249,6 @@
     "content/blog/output.docx",
     "assets/images/2024-12-05_15-58-55.png",
     "Excalidraw/annotated_2024-12-05_15-58-55.md",
-    "Excalidraw/annotated_2024-12-05_16-24-08.md",
     "assets/images/annotated_2024-12-05_16-24-08.png",
     "assets/images/2024-12-05_18-35-45.png",
     "assets/images/2024-12-05_16-24-08.png",
@@ -228,9 +267,12 @@
     "content/blog/cuoc-choi-dang-de-choi.md",
     "content/blog/never-leave-anyone-alone.md",
     "content/blog/qua-phu-thuoc-vao-outer-game.md",
+<<<<<<< HEAD
     "content/blog/data-structure.md",
     "content/blog/playing-baseball.md",
     "assets/images/meis.jpg",
+=======
+>>>>>>> d1ba48f (update post)
     "content/blog/stop-worrying-and-start-living",
     "assets/images/kataoka1.png~"
   ]

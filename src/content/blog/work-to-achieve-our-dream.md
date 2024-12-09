@@ -33,21 +33,21 @@ Lấy ví dụ:
 - Một vận động viên lướt sóng. Mục đích của họ là lướt về bãi biển. Họ đợi bất kì cơn sóng nào để lướt trở về. Tuy nhiên thực tế không phải như vậy. Họ đợi một con sóng thiệt sự lớn thì mới chịu lướt về. Tại sao lại như vậy? 
 - Bởi vì chỉ có cơn sóng to thì họ mới có thể dùng những toàn bộ kỹ năng mà họ học được và luyện tập được.
 
-Hay nói rằng, vì ở các cuộc thi, thì chúng ta mới được tiếp xúc **các trở ngại** và sử dụng được toàn bộ **kỹ năng** 
+Các cuộc thi **có thể** lớn **có thể** nhỏ. **Nhỏ** thì có thể là **cạnh tranh** nói chuyện mượt mà hơn một người mà mình bắt gặp trên đường. **Lớn** thì có thể là **cạnh tranh** tốt nghiệp loại giỏi. 
 
-Các cuộc thi **có thể** lớn **có thể** nhỏ. **Nhỏ** thì có thể là **cạnh tranh** nói chuyện mượt mà hơn một người mà mình bắt gặp trên đường 
-## 4. Mục đích sống cuối cùng là gì?
-**Self 2** luôn cần sự hối thúc nhẹ nhàng và không ngừng, không phải từ Self 1. Mà là tự những demand cơ bản của con người. Như là tận hưởng, học hỏi, để hiểu, để appreciate, nghỉ ngơi, be healthy, tồn tại, tự do 
+Chính **hình thức** cạnh tranh đó đem đến những **chướng ngại vật** để cho tôi lại được dịp **khám phá bản thân** cùng với lại Self 2.
+### 2.2. Sống ở khoảnh khắc bây giờ
+Hãy bắt đầu bằng **câu nói** của bố tôi: "Phải lo lắng thì mới thành công được". Tuy nhiên sự lo lắng vốn là **tác nhân** của các bệnh thần kinh, dạ dày thì sao có thể gọi là thành công được. Vậy **không nghĩ** tới tương lai sao mà có thể kiếm ăn, kiếm mặc. Từ **nghĩ** đã nói lên toàn bộ bản chất thật sự đằng sau. Tôi không được **lo lắng** chứ không phải tôi không được **nghĩ** tới tương lai. 
 
-Vậy đối với Hưng, nó là giúp cho Self 2 mình hiểu hơn và enjoy the process.  
-### 4.1. Sống ở khoảnh khắc bây giờ 
-Đầu tiên hãy breakdown các sự kiện trong đời xem mình sống ở quá khứ hay hiện tại hay tương lai.
-- Đi ăn, đi chơi với những người thân. -> Nghĩ về công việc đang làm, nghĩ về những việc làm chưa được, những việc tương lai cần làm -> Có thể không bắt sóng nói được chữ nào => Nếu abandon mọi thứ và be now thì sao? Nghe được mọi người nói gì và mình có thể đóng góp được gì, chỉ vậy thôi. Abandon hết những thứ khác.
-- Câu hỏi đặt ra là khi nào thì suy nghĩ về tương lai hay quá khứ? Không phải bố mình vẫn phải suy nghĩ về tương lai của công ty rồi này nọ sao? Có thiệt sự điều đó là cần thiết, điều quan trọng chắc là việc mình chia thời gian như thế nào? Thí dụ mình dành riêng một session để analyze những event in the pass thì sao? 
-	- Tránh được Self 1 chen chân vô. Dành cho Self 2 không gian yêu thích
-	- Nghĩ về tương lai cũng giống v. Khi dành ra một session riêng, mình còn có những số liệu nữa 
+Cụ thể hơn, **lo lắng** xuất phát từ Self 1 khi xuất hiện những **judgement**. Còn suy nghĩ chỉ **đơn thuần** là nhìn sự việc **đúng bản chất** của nó. Để mà có thể bước vào trạng thái **suy nghĩ** ấy thì tôi phải trở nên **hiện tại**. 
 
-Trong mọi mối quan hệ, tôi nghĩ nó theo kiểu, sẽ có chỉ số synergy giữa bản thân với mng nên các hành động làm tăng chỉ số hoặc giảm chỉ số. Khi họ khen hay chửi tôi, tôi tiếp cận với Self 2.
+| Hành động quá khứ                                                                      | Hành động hiện tại                                                                                                                                                                                 |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Suy nghĩ về quá khứ xong nói với bản thân không nên làm cái này không nên làm cái kia. | Vẫn là sự kiện đó nhưng tôi ngồi vào bàn, lấy các số liệu liên quan đến sự kiện, phân tích đầu vào, đầu ra. Không có nên hay không nên làm mà chỉ có xác định được kết quả khi có đầu vào như vậy. |
+| Lo lắng rằng những hành động đang làm sẽ không được kết quả mong muốn.                 | Nhìn vào những chỉ số của hành động đó, nếu cần thay đổi số liệu gì, thì thay đổi chứ không phải để lo lắng kêu mình thay đổi.                                                                     |
+
+Đúng vậy, giờ đây nó là khái niệm giữa **tập trung** với **hiện tại**. 
+
 ## 5. Các bước change habbit
 
 ![change_habbit.png](../../assets/images/change_habbit.png)

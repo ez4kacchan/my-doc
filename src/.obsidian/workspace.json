@@ -41,15 +41,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/diamond-no-ace-tap-40-phan-2.md",
+                "file": "content/blog/doanh-nghiep-nho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "diamond-no-ace-tap-40-phan-2"
+              "title": "doanh-nghiep-nho"
             }
-<<<<<<< HEAD
-=======
           },
           {
             "id": "6b4f7121156964a6",
@@ -74,10 +72,9 @@
               "icon": "lucide-image",
               "title": "2024-12-09_19.06.04.excalidraw"
             }
->>>>>>> d1ba48f (update post)
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,26 +216,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "d2e14bfd1ef6ef96",
+  "active": "cb7cf865b5e2244b",
   "lastOpenFiles": [
-=======
-  "active": "6b4f7121156964a6",
-  "lastOpenFiles": [
-    "Excalidraw/annotated_2024-12-05_16-24-08.md",
-    "Excalidraw/Drawing2024-12-09excalidraw.md",
     "content/blog/doanh-nghiep-nho.md",
-    "assets/images/2024-12-09_19.06.04.excalidraw.png",
+    "Excalidraw/Drawing2024-12-09excalidraw.md",
+    "content/blog/work-to-achieve-our-dream.md",
     "content/blog/diamond-no-ace-tap-40-phan-2.md",
->>>>>>> d1ba48f (update post)
+    "assets/images/2024-12-09_19.06.04.excalidraw.png",
+    "Excalidraw/annotated_2024-12-05_16-24-08.md",
     "content/blog/lam-cho-viec-hoc-tro-nen-vui.md",
     "content/blog/computer-networking.md",
     "content/blog/tro-thanh-game-thu-valorant-chuyen-nghiep.md",
-    "content/blog/work-to-achieve-our-dream.md",
-<<<<<<< HEAD
-    "content/blog/diamond-no-ace-tap-40-phan-2.md",
-=======
->>>>>>> d1ba48f (update post)
     "assets/images/2024-12-09_13-04-57.png",
     "content/blog/bo-di-noi-lo.md",
     "content/blog/kataoka-tesshin.md",
@@ -267,12 +255,6 @@
     "content/blog/cuoc-choi-dang-de-choi.md",
     "content/blog/never-leave-anyone-alone.md",
     "content/blog/qua-phu-thuoc-vao-outer-game.md",
-<<<<<<< HEAD
-    "content/blog/data-structure.md",
-    "content/blog/playing-baseball.md",
-    "assets/images/meis.jpg",
-=======
->>>>>>> d1ba48f (update post)
     "content/blog/stop-worrying-and-start-living",
     "assets/images/kataoka1.png~"
   ]

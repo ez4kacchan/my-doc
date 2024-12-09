@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "8b30228f0e3a5029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/tro-thanh-game-thu-valorant-chuyen-nghiep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tro-thanh-game-thu-valorant-chuyen-nghiep"
-            }
-          },
-          {
             "id": "cb7cf865b5e2244b",
             "type": "leaf",
             "state": {
@@ -47,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "work-to-achieve-our-dream"
+            }
+          },
+          {
+            "id": "d2e14bfd1ef6ef96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/diamond-no-ace-tap-40-phan-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "diamond-no-ace-tap-40-phan-2"
             }
           }
         ],
@@ -192,12 +192,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb7cf865b5e2244b",
+  "active": "d2e14bfd1ef6ef96",
   "lastOpenFiles": [
-    "content/blog/bo-di-noi-lo.md",
-    "content/blog/tro-thanh-game-thu-valorant-chuyen-nghiep.md",
-    "content/blog/kataoka-tesshin.md",
     "content/blog/lam-cho-viec-hoc-tro-nen-vui.md",
+    "content/blog/computer-networking.md",
+    "content/blog/tro-thanh-game-thu-valorant-chuyen-nghiep.md",
+    "content/blog/work-to-achieve-our-dream.md",
+    "content/blog/diamond-no-ace-tap-40-phan-2.md",
+    "assets/images/2024-12-09_13-04-57.png",
+    "content/blog/bo-di-noi-lo.md",
+    "content/blog/kataoka-tesshin.md",
     "content/blog/tai-windows-11-tren-windows-10.md",
     "content/blog/reading-book-list.md",
     "content/blog/coffee-store-chatbot.md",
@@ -221,17 +225,12 @@
     "content/blog/dong-bo-tien-trinh.md",
     "assets/images/2024-12-03_22-28-54.png",
     "assets/images/2024-12-03_14-17-15.png",
-    "content/blog/computer-networking.md",
     "content/blog/cuoc-choi-dang-de-choi.md",
     "content/blog/never-leave-anyone-alone.md",
     "content/blog/qua-phu-thuoc-vao-outer-game.md",
     "content/blog/data-structure.md",
     "content/blog/playing-baseball.md",
-    "content/templates/stop-worrying-form.md",
-    "content/blog/lua-chon-cong-viec.md",
-    "content/blog/mo-hinh-ban-hang-chiu-lo.md",
     "assets/images/meis.jpg",
-    "assets/2024-11-15_08-50-43.png",
     "content/blog/stop-worrying-and-start-living",
     "assets/images/kataoka1.png~"
   ]

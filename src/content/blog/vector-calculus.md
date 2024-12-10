@@ -8,7 +8,7 @@ tags:
   - mathematics
 description: Vu Hung
 ---
-## Table of contents
+taylor series## Table of contents
 ## 1.  Các khái niệm liên quan
 ### 1.1. Smooth Function
 Có tính chất **infinitely differentiable**. 
@@ -29,3 +29,18 @@ $$
 T_\infty(x):=\sum_{k=0}^\infty\frac{f^{(k)}(x_0)}{k!}(x-x_0)^k
 $$
 is **called** analytic if $f(x)=T_{\infty}(x)$
+## 2.2. Partial Differentiation và Gradient
+Khác với **Differentiation thông thường**, partial tức là chỉ nói về **một phần** của derivative. 
+
+Lấy ví dụ về sự thay đổi **nhiệt độ** trong không gian: ta sẽ có derivative của **nhiệt độ T** theo **vị trí x** trong không gian, và derivative của **nhiệt độ T** theo **thời gian t**. Như vậy **equation** chỉ có thể nói về một phần của **sự thay đổi**. 
+![images](../../assets/images/2024-12-10_22-17-27.png)
+
+**Gradient** chứa **thông tin** của các partial derivatives dưới dạng **vector**.
+$$
+\nabla f = 
+\begin{bmatrix}
+\dfrac{\partial f}{\partial x} \\\\
+\dfrac{\partial f}{\partial y} \\\\
+\vdots
+\end{bmatrix}
+$$

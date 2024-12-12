@@ -471,3 +471,15 @@ description: Example
 	- việc khách hàng tiềm năng đánh giá hợp
 	- tính cách của mình
 	- khách hàng đó
+## Form cuộc chơi bật cam học bài lâu nhất
+- 1. Cuộc chơi đấy **bao gồm**:
+	- Việc mở cam cho mọi người coi 
+	- Chỉ khi làm việc thì mới mở cam
+	- Xem ai mở cam lâu nhất
+- 2. Những **khả năng** nào được rèn luyện:
+	- Ngồi một chỗ khoảng thời gian dài
+	- Thay đổi tư thế (ngồi -> đứng) nhưng vẫn giữ được khả năng luyện tập trung thư giãn
+	- Luyện tập trung thư giãn 
+	- Tiết kiệm khoản chi phí vào những thứ vô tình thấy thiếu thốn trong lúc không làm việc
+	- Phương pháp giảm nguy cơ mắc bệnh do ngồi lâu 
+	- Optimize giấc ngủ nhưng vẫn giữ được total learning time

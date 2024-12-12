@@ -31,3 +31,7 @@ description:
 		- **Và tôi sẽ không để tâm tới nó nữa cho đến khi tới giờ hoạt động**
 - 4. Tôi **không phụ thuộc** vào
 	- 
+
+## Form
+- 1. Cuộc chơi đấy **bao gồm**:
+- 2. Những **khả năng** nào được rèn luyện:

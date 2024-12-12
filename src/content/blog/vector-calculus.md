@@ -44,3 +44,14 @@ $$
 \vdots
 \end{bmatrix}
 $$
+### 2.2.1. Các quy tắc
+Quy tắc **nhân**: 
+$$
+\frac{\partial}{\partial x}\left(f(x)g(x)\right)
+=\frac{\partial f}{\partial x}g(x)
++f(x)\frac{\partial g}{\partial x}
+$$
+Quy tắc **cộng**:
+$$
+
+$$

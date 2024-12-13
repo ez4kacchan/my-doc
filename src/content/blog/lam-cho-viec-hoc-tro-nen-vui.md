@@ -13,7 +13,6 @@ description: Vu Hung
 Bản chất con người có sự **tò mò**. Cho nên việc **không thích học hỏi** là không hợp lý với bản chất của chúng ta.
 
 Nó **phụ thuộc** vào chọn **học cái gì** và **tốc độ học**.
-
 ## 1.1. Học cái gì?
 Chọn cái chúng ta tốt sẽ giúp duy trì sự enjoyment. Chọn chủ đề học **không gây ngán**, tức là nó không bị static. Ngoài ra, chủ đề học cũng **không nên thay đổi quá nhiều**. 
 
@@ -25,7 +24,7 @@ Như thế nào là chủ đề học **quá ngán**.
 - Chạy xe máy, xe hơi công nghệ:
 	- Thứ cần phải học mỗi ngày: học kĩ năng lái xe, giao tiếp với khách (chủ yếu là first and last impression)
 	- Những cuộc thi: Chở được bao nhiêu khách mỗi ngày \
-=> Những thức **học được** nhanh trở nên quá tĩnh sau **một khoảng** thời gian
+=> Những thứ **học được** nhanh trở nên quá tĩnh sau **một khoảng** thời gian
 
 Như thế nào là chủ đề học **không quá ngán**
 - Tận hưởng cảm xúc con người:
@@ -43,3 +42,33 @@ Khi nói về học, tưỡng tượng là **1 cái khung**. Khi mình học đ�
 ## 2. Law of endorphins
 - Sự liên quan tới **hoạt động thể chất** sẽ giúp release endorphins
 - Nhiệt độ **càng ấm** sẽ tăng chỗ chứa endorphins
+
+## 3. Đọc truyện Shounen, coi giải Esport 
+### 3.1. Bản chất
+Hãy nhớ lại những **nhu cầu** của cơ bản của **Self 2**. Nó mong muốn được học, được hiểu, công nhận cái hay cái đẹp. 
+
+Khi đọc truyện **Shounen**, các yếu tố tôi **tập trung** vào:
+- Sự đa dạng, nguồn gốc của các nhân vật. Như trong **Naruto** thì sự đa dạng ấy nằm ở mỗi nhân vật đều ở mỗi **tộc khác nhau** và **một làng khác nhau**. Mỗi tộc thì lại có những **thuật** chỉ có tộc đó mới thi triển được.
+- Nhân vật **phản diện** thú vị, mà đời thường **tỉ lệ** gặp thấp. Nhân vật đó không chỉ là **chướng ngại vật** với anh hùng mà còn có những **động lực** tốt khiến cho người đọc **ủng hộ**. 
+- Sự **tương tác** giữa các nhân vật trong một chuyến phiêu lưu, một sự kiện, một cuộc tổng tấn công liên kết, và khơi bày được nhiều sự thật
+
+Khi coi giải **Esport**, các yếu tố tôi **tập trung** vào:
+- **Quốc gia** của mỗi đội tuyển, các **thành viên** của đội tuyển, **lịch sử** của đội tuyển. -> Để biết mình **cổ vũ** cho đội tuyển nào.
+- Các **giải đấu** mà đội tuyển ấy tham dự -> Liệu **đội tuyển** ấy có tiến xa được hay không
+
+Cảm giác của Self 2:
+- Không thể **biết gì**, hay **dự đoán** gì. Chỉ có sự mong ước sẽ có **cái kết đẹp**
+### 3.2. Học sao để Self 2 cảm giác cái đẹp
+Tôi không cần phải học cái gì **cần thiết**, **Self 2** sẽ tự biết lấy những **kiến thức** cần thiết đã được tích lũy chứ không phải **Self 1** ra lệnh **cần phải học** những gì
+
+Giống như Esport, Shounen, hãy kiếm cho **Self 2** một **nhân vật** mà nó **thích** để mà có thể cổ vũ. 
+
+### 3.3. Tương tác như thế nào với những dự án trên trường
+Điều cần nhớ là mình **không phụ thuộc** vào bất cứ dự án nào, kể cả **kết quả**. Xét cho cùng hãy để **chúa** quan tâm tới những thứ ấy. Thứ **phù hợp** với mình là hãy **cảm giác** nhiều hơn về dự án đó để cho Self 2 có thể tìm thấy **nhân vật** mà nó yêu thích và để cho **Self 2** có thể thấy **cái đẹp**. 
+
+
+Vậy các **cuộc thi** giữ **vai trò** gì? Ý nghĩa là giúp cho Self 2 **khám phá** những khả năng của nó, **phù hợp** với **nhu cầu** muốn được **học**, về khả năng mà bản thân không ngờ tới.
+
+Đúng vậy, **ở các cuộc thi** tôi xem xét những **kĩ năng** nào của bản thân được hội hợp lại.
+
+Với mục đích **luyện sự tập trung**, bởi nhờ sự tập trung đấy **Self 2** mới được giành **toàn bộ** không gian để trải nghiệm.

@@ -53,5 +53,5 @@ $$
 $$
 Quy tắc **cộng**:
 $$
-
+\partial 
 $$

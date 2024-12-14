@@ -53,5 +53,35 @@ $$
 $$
 Quy tắc **cộng**:
 $$
-\partial 
+\frac{\partial}{\partial x}(f(x) + g(x))
+=\frac{\partial f}{\partial x}
++\frac{\partial g}{\partial x}
+$$
+Quy tắc **dây chuyền**:
+$$
+\frac{\partial}{\partial x}f(g(x))
+=\frac{\partial f}{\partial g}
+\frac{\partial g}{\partial x}
+$$
+### 2.2.2. Gradient của vector-value function
+Hay còn được gọi là **Jacobian matrix** của hàm $R^n \mapsto R^m$
+$$
+\mathbf{J} = \nabla_{\mathbf{x}} \mathbf{f} 
+= \frac{d\mathbf{f}(\mathbf{x})}{d\mathbf{x}} 
+= \begin{pmatrix} \frac{\partial f(\mathbf{x})}{\partial x_1} & \cdots & \frac{\partial f(\mathbf{x})}{\partial x_n} \end{pmatrix} 
+= \begin{pmatrix} \frac{\partial f_1(\mathbf{x})}{\partial x_1} & \cdots & \frac{\partial f_1(\mathbf{x})}{\partial x_n} \\ \vdots & \ddots & \vdots \\ \frac{\partial f_m(\mathbf{x})}{\partial x_1} & \cdots & \frac{\partial f_m(\mathbf{x})}{\partial x_n} \end{pmatrix} 
+$$
+#### 2.2.2.1. Gradient của vector-value function respect to ma trận 
+Xem xét hàm:
+$$
+f(x)
+=\mathbf{A}x,
+\quad f \in R^m, \quad A\in R^{m\times n},\quad x\in R^{n}
+$$
+Ta có:
+$$
+f=
+(\begin{matrix}
+\frac{\partial f(\mathbf{x})}{\partial x_1} & \cdots & \frac{\partial f(\mathbf{x})}{\partial x_n} 
+\end{matrix})
 $$

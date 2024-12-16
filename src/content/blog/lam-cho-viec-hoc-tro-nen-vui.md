@@ -85,3 +85,8 @@ Nhắc mới nhớ tới khái niệm về **black box**. Điểm chính là **i
 Vậy SOP **có thể** kết hợp cùng với Self 2. Tức ta có thể **tune** mô hình SOP để giúp cho Self 2 có được **nhiều không gian** nhất. 
 ### 4.2. Khởi tạo SOP
 ![change_habbit.png](../../assets/images/change_habbit.png)
+
+Bây giờ, chúng ta sẽ làm 1 cái **SOP** cho quá trình học:
+
+- "Fall in love" stage
+	- List toàn bộ kiến thức liên quan tới **khái niệm** mình tìm hiểu

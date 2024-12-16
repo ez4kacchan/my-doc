@@ -118,3 +118,4 @@ export default function SearchBar({ searchList }: Props) {
     </>
   );
 }
+

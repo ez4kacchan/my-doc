@@ -4,7 +4,9 @@ pubDatetime: 2024-12-14T08:25:57Z
 title: Spirit vs Mouz
 featured: false
 draft: false
-tags: 
+tags:
+  - cs2
+  - valorant
 description: Vu Hung
 ---
 ## Table of contents

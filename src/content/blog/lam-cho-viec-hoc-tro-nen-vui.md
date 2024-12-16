@@ -42,7 +42,6 @@ Khi nói về học, tưỡng tượng là **1 cái khung**. Khi mình học đ�
 ## 2. Law of endorphins
 - Sự liên quan tới **hoạt động thể chất** sẽ giúp release endorphins
 - Nhiệt độ **càng ấm** sẽ tăng chỗ chứa endorphins
-
 ## 3. Đọc truyện Shounen, coi giải Esport 
 ### 3.1. Bản chất
 Hãy nhớ lại những **nhu cầu** của cơ bản của **Self 2**. Nó mong muốn được học, được hiểu, công nhận cái hay cái đẹp. 
@@ -72,3 +71,17 @@ Vậy các **cuộc thi** giữ **vai trò** gì? Ý nghĩa là giúp cho Self 2
 Đúng vậy, **ở các cuộc thi** tôi xem xét những **kĩ năng** nào của bản thân được hội hợp lại.
 
 Với mục đích **luyện sự tập trung**, bởi nhờ sự tập trung đấy **Self 2** mới được giành **toàn bộ** không gian để trải nghiệm.
+### 4. SOP nhưng không phải SOP?
+### 4.1. SOP và Self 2
+Liệu 1 quy trình cụ thể và rõ ràng có ảnh hưởng tới Self 2
+
+Nên **nhớ rằng** để tối ưu Self 2 là phải để nhiều **không gian** cho Self 2 cảm nhận. Tiếp cận những hướng dẫn, những kiến thức giống như là external model. 
+
+SOP tức là quy trình, tức là tạo những **mối liên kết** giữa các hoạt động với nhau. Hãy nhớ lại 4 bước để thay đổi thói quen cũng có quy trình nhưng tại sao lại **không** ảnh hưởng đến Self 2. \
+=> Từ đây lại phải nói tới **sự liên kết** trên **loại** hoạt động nào?
+
+Nhắc mới nhớ tới khái niệm về **black box**. Điểm chính là **input** và **output**. Nếu như Self 2 có **tính chất** đó giống black box. Thì 4 bước để thay đổi thói quen chính là giúp input output có thể hoạt động một cách tự nhiên.
+
+Vậy SOP **có thể** kết hợp cùng với Self 2. Tức ta có thể **tune** mô hình SOP để giúp cho Self 2 có được **nhiều không gian** nhất. 
+### 4.2. Khởi tạo SOP
+![change_habbit.png](../../assets/images/change_habbit.png)

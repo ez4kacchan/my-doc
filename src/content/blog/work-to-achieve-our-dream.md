@@ -51,9 +51,7 @@ Cụ thể hơn, **lo lắng** xuất phát từ Self 1 khi xuất hiện nhữn
 ## 5. Các bước change habbit
 
 ![change_habbit.png](../../assets/images/change_habbit.png)
-
 ## 6. Mình đã luôn nuôi dưỡng "Self 1"
-
 Việc mà cảm thấy tự mãn khi được khen nè. Hay suy nghĩ tích cực, tiêu cực đều giúp cho "Self 1" hoạt động mạnh hơn
 
 List những thứ đã nuôi dưỡng **Self 1**:
@@ -63,7 +61,7 @@ List những thứ đã nuôi dưỡng **Self 1**:
 - Luyến tiếc từng học PTNK
 - Ỷ mình giàu 
 - ...
- 
+
 Tôi không biết let go những cái pressure từ gia đình, bạn bè ... Những pressure khi coi anime. 
 
 Không có self-improvement nào ở đây cả. Từ khi sinh ra thì Self 2 đã có những khả năng đó rồi, không có gì sai trong Self 2 để mình phải thốt lên "Mình yếu kém thật sự. Mình cần phải cải thiện rất nhiều. "
@@ -103,11 +101,11 @@ Cách hợp lý là cho phép bản thân **cảm thấy hứng thú** với vi�
 #### 8.2.1. Step 1: Quan sát một cách không phán xét
 Thử bất cứ thứ gì mình **muốn thay đổi** và để cơ thể hoặc việc làm đó trả lời lại xem **nó có muốn thay đổi**. Nếu mình muốn thay đổi thứ gì đã sẵn sàng để thay đổi thì quá trình sẽ **hoàn toàn tự nhiên**
 - Quên hết mọi thứ mình muốn thay đổi, về cái gì đúng hay sai. **Just be aware**.
-- Ví dụ tập sdaily streamút xa trong đá banh:
+- Ví dụ tập sút xa trong đá banh:
 	- **Aware** tư thế mình đứng, sức nặng mình đang dồn về bên nào. 
 	- **Aware** mắt mình đang nhìn ở đâu. 
 	- **Aware** mình cách trái banh cỡ bao xa, chân mình có thẳng với trái banh hay không
-	- **Aware** đầu gối, bàn chân mình lúc sút. Vung mạnh hết lực hay chỉ cố định một tư thê
+	- **Aware** đầu gối, bàn chân mình lúc sút. Vung mạnh hết lực hay chỉ cố định một tư thế
 	-> Simply **Aware** not **trying hard** to fix anything. Để việc sút banh tự trả lời phần nào cần sửa và sửa như nào. Forget everything about previous wrong or right.
 #### 8.2.2. Step 2: Hình dung kết quả
 Giả sử việc sút banh trả lời là mình cần độ chính xác.**Việc tiếp theo** là **hình dung** cú sút của mình với độ chính xác cao. Một cách để làm là **quan sát** chuyển động của cầu thủ sút chính xác. **Đừng đánh giá** gì cả **chỉ quan sát** và **thử cảm giác những gì cầu thủ đó cảm giác**. Hình dung càng nhiều chi tiết về mặt hình ảnh và xúc giác. 

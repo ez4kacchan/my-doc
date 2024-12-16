@@ -17,7 +17,7 @@ Từ hồi lớp 5 tôi đã biết đến cụm từ "cạnh tranh". Nó xuất
 
 Mặc dù vậy đến năm 19 tuổi, tôi mới **ngộ ra** được ý nghĩa của các cuộc thi sau khi trải nghiệm kiến thức từ quyển sách *The Inner Game of Tennis* của tác giả Timothy Gallwey. Cuộc thi đem đến cho chúng ta **những chướng ngại vật** mà tại đó các kĩ năng của bản thân **được bện chặt lại**. Tôi tham gia các cuộc thi **không phải để** **chứng minh bản thân**, cũng **không** để cho mọi người thấy tôi tuyệt như nào mà **để** tham gia vào **sự khám phá tự nhiên** những **khả năng tiềm ẩn** của Self 2.
 
-**Chiến thắng** không còn ý nghĩa gì.
+**Chiến thắng** không còn ý nghĩa gì. Hãy để **Self 2** được trải nghiệm nhiều hơn.
 ### 1.2. Những sự thay đổi 
 Trong cuộc thi, **ai** là người có thể đem đến **những chướng ngại vật** đó? Chính là **đối thủ** của tôi.
 

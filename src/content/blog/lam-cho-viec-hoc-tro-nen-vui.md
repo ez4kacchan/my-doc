@@ -65,7 +65,6 @@ Giống như Esport, Shounen, hãy kiếm cho **Self 2** một **nhân vật** m
 ### 3.3. Tương tác như thế nào với những dự án trên trường
 Điều cần nhớ là mình **không phụ thuộc** vào bất cứ dự án nào, kể cả **kết quả**. Xét cho cùng hãy để **chúa** quan tâm tới những thứ ấy. Thứ **phù hợp** với mình là hãy **cảm giác** nhiều hơn về dự án đó để cho Self 2 có thể tìm thấy **nhân vật** mà nó yêu thích và để cho **Self 2** có thể thấy **cái đẹp**. 
 
-
 Vậy các **cuộc thi** giữ **vai trò** gì? Ý nghĩa là giúp cho Self 2 **khám phá** những khả năng của nó, **phù hợp** với **nhu cầu** muốn được **học**, về khả năng mà bản thân không ngờ tới.
 
 Đúng vậy, **ở các cuộc thi** tôi xem xét những **kĩ năng** nào của bản thân được hội hợp lại.
@@ -85,8 +84,10 @@ Nhắc mới nhớ tới khái niệm về **black box**. Điểm chính là **i
 Vậy SOP **có thể** kết hợp cùng với Self 2. Tức ta có thể **tune** mô hình SOP để giúp cho Self 2 có được **nhiều không gian** nhất. 
 ### 4.2. Khởi tạo SOP
 ![change_habbit.png](../../assets/images/change_habbit.png)
-
 Bây giờ, chúng ta sẽ làm 1 cái **SOP** cho quá trình học:
-
 - "Fall in love" stage
-	- List toàn bộ kiến thức liên quan tới **khái niệm** mình tìm hiểu
+	- List toàn bộ kiến thức liên quan tới **khái niệm** mình tìm hiểu. Kể cả những thứ đối lập
+
+Đây chính là hình ảnh **của những mô hình ngoại**: 
+![images](../../assets/images/missing_line.excalidraw.png)
+Giành **thời gian** và **không gian** cho **Self 2** là cách **duy nhất** để nối nó lại

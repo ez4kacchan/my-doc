@@ -6,9 +6,10 @@ featured: false
 draft: false
 tags:
   - mathematics
+  - vector-calculus
 description: Vu Hung
 ---
-taylor series## Table of contents
+## Table of contents
 ## 1.  Các khái niệm liên quan
 ### 1.1. Smooth Function
 Có tính chất **infinitely differentiable**. 
@@ -29,7 +30,7 @@ $$
 T_\infty(x):=\sum_{k=0}^\infty\frac{f^{(k)}(x_0)}{k!}(x-x_0)^k
 $$
 is **called** analytic if $f(x)=T_{\infty}(x)$
-## 2.2. Partial Differentiation và Gradient
+### 2.2. Partial Differentiation và Gradient
 Khác với **Differentiation thông thường**, partial tức là chỉ nói về **một phần** của derivative. 
 
 Lấy ví dụ về sự thay đổi **nhiệt độ** trong không gian: ta sẽ có derivative của **nhiệt độ T** theo **vị trí x** trong không gian, và derivative của **nhiệt độ T** theo **thời gian t**. Như vậy **equation** chỉ có thể nói về một phần của **sự thay đổi**. 
@@ -44,7 +45,7 @@ $$
 \vdots
 \end{bmatrix}
 $$
-### 2.2.1. Các quy tắc
+#### 2.2.1. Các quy tắc
 Quy tắc **nhân**: 
 $$
 \frac{\partial}{\partial x}\left(f(x)g(x)\right)
@@ -63,7 +64,7 @@ $$
 =\frac{\partial f}{\partial g}
 \frac{\partial g}{\partial x}
 $$
-### 2.2.2. Gradient của vector-value function
+#### 2.2.2. Gradient của vector-value function
 Hay còn được gọi là **Jacobian matrix** của hàm $R^n \mapsto R^m$
 $$
 \mathbf{J} = \nabla_{\mathbf{x}} \mathbf{f} 
@@ -71,17 +72,50 @@ $$
 = \begin{pmatrix} \frac{\partial f(\mathbf{x})}{\partial x_1} & \cdots & \frac{\partial f(\mathbf{x})}{\partial x_n} \end{pmatrix} 
 = \begin{pmatrix} \frac{\partial f_1(\mathbf{x})}{\partial x_1} & \cdots & \frac{\partial f_1(\mathbf{x})}{\partial x_n} \\ \vdots & \ddots & \vdots \\ \frac{\partial f_m(\mathbf{x})}{\partial x_1} & \cdots & \frac{\partial f_m(\mathbf{x})}{\partial x_n} \end{pmatrix} 
 $$
-#### 2.2.2.1. Gradient của vector-value function respect to ma trận 
+##### 2.2.2.1. Gradient của vector-value function respect to ma trận 
 Xem xét hàm:
 $$
-f(x)
-=\mathbf{A}x,
-\quad f \in R^m, \quad A\in R^{m\times n},\quad x\in R^{n}
+\mathbf{f}(\mathbf{x}) = \mathbf{A}\mathbf{x}, \quad \mathbf{f} \in \mathbb{R}^m, \quad \mathbf{A} \in \mathbb{R}^{m \times n}, \quad \mathbf{x} \in \mathbb{R}^n
 $$
 Ta có:
 $$
-f=
-(\begin{matrix}
-\frac{\partial f(\mathbf{x})}{\partial x_1} & \cdots & \frac{\partial f(\mathbf{x})}{\partial x_n} 
-\end{matrix})
+f_i = \sum_{j=1}^n A_{ij} x_j
+$$
+Tổng quát hóa đạo hàm phần:
+$$
+\frac{\partial f_i}{\partial A_{kl}} =
+\begin{cases}
+x_l & \text{if } i = k, \\
+0 & \text{otherwise}
+\end{cases}
+$$
+
+hay 
+$$
+\frac{\partial f_i}{\partial \mathbf{A}} = 
+\begin{pmatrix}
+\mathbf{0}^T \\
+\vdots \\
+\mathbf{0}^T \\
+\mathbf{x}^T \\
+\mathbf{0}^T \\
+\vdots \\
+\mathbf{0}^T
+\end{pmatrix}
+\in \mathbb{R}^{1 \times (m \times n)}
+$$
+#### 2.2.3. Higher Order Derivatives
+Xét hàm $f:R^n \mapsto R,\quad x \in R^n$
+- Nếu $f$ có đạo hàm bậc 2 liên tục, tức $\frac{\partial}{\partial{x_{i}}}\left( \frac{\partial{f}}{\partial{x_j}} \right) = \frac{\partial}{\partial{x_{j}}}\left( \frac{\partial{f}}{\partial{x_i}} \right)$, ta có:
+$$
+H_x f = 
+\begin{pmatrix}
+\frac{\partial^2 f}{\partial x_1^2} & \frac{\partial^2 f}{\partial x_1 \partial x_2} & \cdots & \frac{\partial^2 f}{\partial x_1 \partial x_n} \\
+\vdots & \vdots & \ddots & \vdots \\
+\frac{\partial^2 f}{\partial x_n \partial x_1} & \frac{\partial^2 f}{\partial x_n \partial x_2} & \cdots & \frac{\partial^2 f}{\partial x_n^2}
+\end{pmatrix}
+$$
+Khi $f: R^n \mapsto R^m, \quad \nabla f \in R^{m\times n}$
+$$
+H_{x}f \in R^{m\times n\times n}
 $$

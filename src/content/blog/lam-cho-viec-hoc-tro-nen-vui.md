@@ -84,10 +84,14 @@ Nhắc mới nhớ tới khái niệm về **black box**. Điểm chính là **i
 Vậy SOP **có thể** kết hợp cùng với Self 2. Tức ta có thể **tune** mô hình SOP để giúp cho Self 2 có được **nhiều không gian** nhất. 
 ### 4.2. Khởi tạo SOP
 ![change_habbit.png](../../assets/images/change_habbit.png)
-Bây giờ, chúng ta sẽ làm 1 cái **SOP** cho quá trình học:
-- "Fall in love" stage
-	- List toàn bộ kiến thức liên quan tới **khái niệm** mình tìm hiểu. Kể cả những thứ đối lập
-
 Đây chính là hình ảnh **của những mô hình ngoại**: 
 ![images](../../assets/images/missing_line.excalidraw.png)
 Giành **thời gian** và **không gian** cho **Self 2** là cách **duy nhất** để nối nó lại
+
+Bây giờ, chúng ta sẽ làm 1 cái **SOP** cho quá trình học:
+- "Fall in love" stage
+	- List toàn bộ kiến thức liên quan tới **khái niệm** mình tìm hiểu. Kể cả những thứ đối lập
+- "Erase" stage:
+	- **Xóa** những liên kết giữa các khái niệm và để Self 2 trải nghiệm và **tự nối** lại.
+	- Giả sử khái niệm được **viết trên giấy** thì xóa tức là **xóa chữ**
+

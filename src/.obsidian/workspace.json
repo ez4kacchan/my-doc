@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "linear-regression"
             }
+          },
+          {
+            "id": "ade3e810a5d70f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/t-sne.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "t-sne"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,15 +220,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c13f858b471a1cb8",
+  "active": "ade3e810a5d70f7b",
   "lastOpenFiles": [
-    "content/blog/lam-cho-viec-hoc-tro-nen-vui.md",
     "content/blog/linear-regression.md",
+    "content/blog/t-sne.md",
+    "content/blog/vector-calculus.md",
+    "content/blog/mot-phut-de-danh-su-ton-trong-danh-cho-self-2.md",
+    "content/blog/lam-cho-viec-hoc-tro-nen-vui.md",
     "Excalidraw/missing_line.excalidraw.md",
     "assets/images/missing_line.excalidraw.png",
-    "content/blog/mot-phut-de-danh-su-ton-trong-danh-cho-self-2.md",
     "assets/images/2024-12-17_15-14-06.png",
-    "content/blog/vector-calculus.md",
     "content/blog/cac-hinh-thuc-nhan-tien-tu-khach-hang.md",
     "content/blog/work-to-achieve-our-dream.md",
     "content/blog/reading-book-list.md",
@@ -238,7 +253,6 @@
     "Excalidraw/Drawing2024-12-09excalidraw.md",
     "assets/images/2024-12-09_19.06.04.excalidraw.png",
     "Excalidraw/annotated_2024-12-05_16-24-08.md",
-    "content/blog/tro-thanh-game-thu-valorant-chuyen-nghiep.md",
     "assets/images/2024-12-09_13-04-57.png",
     "assets/images/annotated_2024-12-05_15-58-55.png",
     "content/blog/output.docx",

@@ -21,3 +21,8 @@ Những **khái niệm** và **interference** của những khái niệm ấy đ
 Giống ấy chứ ha. Wave X là khái niệm X, Wave Y là khái niệm Y. **Chúa** làm cho Wave X **va vào** Wave Y và ra một Wave mới. **Self 2** giống như Chúa vậy. 
 
 **Để ý** thì việc định nghĩa Wave X là như thế nào, Wave Y như thế nào cũng làm **thay đổi** nhiều ấy chứ.
+
+## 1.1. Cuộc sống cùng lúc rất nhiều và rất ngắn
+Hãy trải nghiệm **nhiều nhất** có thể vì thế giới có rất **nhiều thứ** để trải nghiệm. Nhưng cũng hãy trải nghiệm **nhiều nhất** có thể vì không còn **nhiều thời gian** để trải nghiệm.
+
+Hãy **để Self 2 không gian** và tận hưởng nhé! 

@@ -119,3 +119,18 @@ $$
 Thực hiện thao tác tương tự như ở không gian nhiều chiều.
 
 Khi đó, chúng ta muốn $q_{ij}$ phản ánh $p_{ij}$ nhiều nhất có thể để structure của Low-D map giống với lại structure của dữ liệu ở High-D 
+
+Để tính toán được sự khác biệt này, ta dùng *Kullback–Leibler divergence*
+$$
+KL(P \| Q) = \sum_i \sum_{j \neq i} p_{ij} \log \frac{p_{ij}}{q_{ij}}
+$$
+
+Về tại sao lại không dùng gaussian ở Low-D. Ta sẽ dùng một khái niệm mới là *Student-t Distribution*:
+$$
+(1 + \|\mathbf{y}_i - \mathbf{y}_j\|^2)^{-1}
+$$
+ *Student-t Distribution* giống với *Gaussian Distribution* nhưng with heavier tails, meaning it can accommodate more extreme values.
+
+Trong mô hình t-SNE chúng ta tập trung vào duy trì những local structure mà có nhiều điểm tương đồng. Tương đương với việc các điểm không giống nhau sẽ ở rất xa nhau trong mô hình. 
+
+Giả sử nếu như trong Gaussian Distribution, hai điểm cách xa 10 20 đơn vị, ta được density là 0.01 . Thì để được density như vậy ở trong Student-t Distribution, hai điểm phải cách xa ví dụ 20 30 đơn vị 

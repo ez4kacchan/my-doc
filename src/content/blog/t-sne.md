@@ -17,61 +17,12 @@ Các kĩ thuật giảm chiều được xếp vào 2 loại:
 - Giảm chiều tuyến tính: dành cho dữ liệu có thể biểu diễn bằng các mối quan hệ tuyến tính. Một vài kĩ thuật như: PCA, 
 - Giảm chiều phi tuyến tính: dành cho dữ liệu có cấu trúc phức tạp, đảm bảo các mối quan hệ phi tuyến tính của dữ liệu gốc. Một vài kĩ thuật như: t-SNE, Isomap
 ### 1.2. Stochastic Neighbor Embedding
-Các phương pháp khác
-
-| Noun                     | Action word |
-| ------------------------ | ----------- |
-| Other method             | associate   |
-| high-dimensional points  | require     |
-| Grid of point            | associated  |
-| Low-dimensional Space    | only        |
-| High-dimensional objects |             |
-| Single location          |             |
-| Low-dimensional Space    |             |
-| Mapping                  | unfold      |
-| ambiuos object           | separate    |
-| disparate locations      |             |
 Các phương pháp khác cố gắng tạo mối liên kết giữa các điểm trong không gian nhiều chiều thành "fixed grid of point" ở không gian có số chiều thấp. Tuy nhiên việc bắt mỗi object ở không gian nhiều chiều thành một điểm ở không gian thấp hơn gây khó khăn. Bởi thực tế một object mơ hồ thuộc về nhiều điểm khác loại hơn. 
 
 Do đó ta có phương pháp stochastic neighbor embedding
-
-| Noun                  | Action word |
-| --------------------- | ----------- |
-| SNE                   | place       |
-| Object                | so as to    |
-| Low-dimension space   | optimally   |
-| neighborhood identity | preserve    |
-| low-d image           | extended    |
-| object                | each        |
-|                       | multiple    |
-|                       | different   |
-|                       | of          |
-
-
 ## 2. Khái niệm chính
 ### 2.1. t-SNE
-
-| Noun               | Action verb |
-| ------------------ | ----------- |
-| map                | build       |
-| distance           | between     |
-| points             | reflect     |
-| similarities       | minimize    |
-| data               | measure     |
-| objective function |             |
-| discrepancy        |             |
-| similarities       |             |
-|                    |             |
-map: hàm mapping
-xây dựng hàm mapping mà khoảng cách giữa các điểm phản ảnh sự tương đồng ở trong tệp dữ liệu. Cũng cần phải giảm thiểu số lượng hàm objective mà dùng để tính toán sự không thống nhất giữa sự tương đồng trong tệp dữ liệu và sự tương đồng trong hàm mapping
-
-
-| Noun             | Action verb |
-| ---------------- | ----------- |
-| Pairwise         | Measure     |
-| Similarities     | Between     |
-| high-dimensional |             |
-| objects          |             |
+Xây dựng hàm mapping mà khoảng cách giữa các điểm phản ảnh sự tương đồng ở trong tệp dữ liệu. Cũng cần phải giảm thiểu số lượng hàm objective mà dùng để tính toán sự không thống nhất giữa sự tương đồng trong tệp dữ liệu và sự tương đồng trong hàm mapping
 
 Khác với các phương pháp khác như PCA,
 ![images](../../assets/images/2024-12-21_08-06-31.png)
@@ -79,7 +30,6 @@ Khác với các phương pháp khác như PCA,
 Xét trường hợp cặp điểm như trên mặc dù Euclidean Distance nhỏ nhưng lại không có điểm tương đồng. Phương pháp PCA mục đích duy trì general structure của dữ liệu qua việc giữ lại những cặp có khoảng cách lớn
 
 Vậy làm sao để duy trì những cặp có khoảng cách nhỏ?
-
 #### 2.1.1. High-D
 Phương pháp t-SNE hướng tới việc giữ lại những cặp gần nhau trong local structure.
 
@@ -133,4 +83,6 @@ $$
 
 Trong mô hình t-SNE chúng ta tập trung vào duy trì những local structure mà có nhiều điểm tương đồng. Tương đương với việc các điểm không giống nhau sẽ ở rất xa nhau trong mô hình. 
 
-Giả sử nếu như trong Gaussian Distribution, hai điểm cách xa 10 20 đơn vị, ta được density là 0.01 . Thì để được density như vậy ở trong Student-t Distribution, hai điểm phải cách xa ví dụ 20 30 đơn vị 
+Giả sử nếu như trong Gaussian Distribution, hai điểm cách xa 10 20 đơn vị, ta được density là 0.01 . Thì để được density như vậy ở trong Student-t Distribution, hai điểm phải cách xa ví dụ 20 30 đơn vị. Như vậy, ta đạt được mục đích là duy trì được local structure và làm mờ đi những điểm rất xa nhau.
+
+

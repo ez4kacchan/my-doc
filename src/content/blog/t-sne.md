@@ -65,16 +65,16 @@ $$
 $$
 q_{ij} = \frac{(1 + \|\mathbf{y}_i - \mathbf{y}_j\|^2)^{-1}}{\sum_k \sum_{l \neq k} (1 + \|\mathbf{y}_k - \mathbf{y}_l\|^2)^{-1}}
 $$
-k
+
 Thực hiện thao tác tương tự như ở không gian nhiều chiều.
-j
+
 Khi đó, chúng ta muốn $q_{ij}$ phản ánh $p_{ij}$ nhiều nhất có thể để structure của Low-D map giống với lại structure của dữ liệu ở High-D 
 
-kĐể tính toán được sự khác biệt này, ta dùng *Kullback–Leibler divergence*
+Để tính toán được sự khác biệt này, ta dùng *Kullback–Leibler divergence*
 $$
 KL(P \| Q) = \sum_i \sum_{j \neq i} p_{ij} \log \frac{p_{ij}}{q_{ij}}
 $$
-##### 2.1.2.1. Crowding Problem
+#### 2.1.3. Crowding Problem
 Ở không gian nhiều chiều sẽ có rất nhiều khoảng trống. Do đó một điểm có thể có rất nhiều điểm lân cận.
 
 Giả sử ở không gian 2D, một điểm có một số điểm lân cận gần với điểm đó. Nhưng các điểm lân cận này lại cách xa nhau. Khi các điểm từ 2D được duy trì xuống 1D, các điểm lân cận vốn cách xa nhau lại được xếp gần nhau. Chính vì thế ta cần một distribution vẫn giữ được structure của điểm gần nhau và structure của các điểm xa nhau. 
@@ -88,3 +88,11 @@ $$
  *Student-t Distribution* giống với *Gaussian Distribution* nhưng with heavier tails, nghĩa là nó có thể giải quyết những extreme values và trường hợp tập dữ liệu ít. 
 
 Giả sử nếu như trong Gaussian Distribution, hai điểm cách xa 10 20 đơn vị, ta được density là 0.01 . Thì để được density như vậy ở trong Student-t Distribution, hai điểm phải cách xa ví dụ 20 30 đơn vị. Như vậy, ta đạt được mục đích là duy trì được local structure và làm mờ đi những điểm rất xa nhau.
+## 3. Implement Code
+### 3.1. Xử lý data
+Dạng của dataset: TSNE khá là expensive và phát huy sức mạnh khi xủ lý các dataset có nhiều mối quan hệ phi tuyến tính, với những cụm phức tạp.
+
+Lựa chọn dataset với tầm 1000-2000 samples, 10-20 features và 2-4 clusters.
+
+Chọn MNIST Dataset
+### 3.2. Main class

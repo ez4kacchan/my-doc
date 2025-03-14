@@ -10,17 +10,15 @@ description: Vu Hung
 ---
 ## Table of contents
 ## 1. Race condition
-Trongbài toán **Producer & Consumer** biến **count** được **truy cập** bởi cả quá trình. Trong bài toán **Cấp PID**, nếu cả 2 process khác nhau đều **fork()** cùng 1 lúc thì **next_availiable_pid()** được **truy cập** bởi 2 processes.
+Trong bài toán **Producer & Consumer**, biến **count** được **truy xuất** bởi cả 2 quá trình Producer và Consumer. Trong bài toán **Cấp PID**, **next_available_pid()** được **gọi** tới khi một process thực hiện **fork()**, vậy nếu có **2 processes** cùng thực hiện fork() thì sao? \ 
 -> cần một cơ chế để đảm bảo thự tứ trước sau -> **race condition**
-
 ## 2. Vùng tranh chấp - Critical Section
 Là vùng của các tiến trình, mà tại đó thực hiện việc truy cập các dữ liệu được **chia sẻ chung** và tại **1 thời điểm** chỉ có **1** tiến trình được truy cập.
 
 Qúa trình **truy cập** critical section của tiến trình: 
 - Yêu cầu đến entry section -> vào critical section -> thoát ra bởi exit section -> thực thi phần còn lại remainder section
 ![image](../../assets/images/2024-12-03_14-17-15.png)
-
-Giải pháp cho critical section phải đảm bảo **3 yêu cầu**:
+Quy trình progress vào cho critical section phải đảm bảo **3 yêu cầu**:
 - Mutual Exclusion: Chỉ **1 tiến trình** được thực thi vùng critial section của nó
 - Progress: Tiến trình **tạm dừng** bên ngoài vùng tranh chấp không được **ngăn cản** tiến trình khác vào vùng tranh chấp
 - Bounded Waiting: Tiến trình sau khi gửi **yêu cầu** vào critical section chỉ đợi **một khoảng thời gian** để tránh **starvation** (bởi waiting vô thời hạn)
